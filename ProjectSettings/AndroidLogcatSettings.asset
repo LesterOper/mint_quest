@@ -1,0 +1,113 @@
+{
+    "m_SelectedDeviceId": "fugmuoros8obrsdi",
+    "m_SelectedPackage": {
+        "deviceId": "fugmuoros8obrsdi",
+        "name": "pink.dragons.mintbrain",
+        "processId": 17059,
+        "exited": false
+    },
+    "m_SelectedPriority": 2,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "fugmuoros8obrsdi",
+            "name": "pink.dragons.mintbrain",
+            "processId": 6569,
+            "exited": true
+        },
+        {
+            "deviceId": "fugmuoros8obrsdi",
+            "name": "pink.dragons.mintbrain",
+            "processId": 9455,
+            "exited": true
+        },
+        {
+            "deviceId": "fugmuoros8obrsdi",
+            "name": "pink.dragons.mintbrain",
+            "processId": 17279,
+            "exited": true
+        },
+        {
+            "deviceId": "fugmuoros8obrsdi",
+            "name": "pink.dragons.mintbrain",
+            "processId": 24605,
+            "exited": true
+        },
+        {
+            "deviceId": "fugmuoros8obrsdi",
+            "name": "pink.dragons.mintbrain",
+            "processId": 9489,
+            "exited": true
+        },
+        {
+            "deviceId": "fugmuoros8obrsdi",
+            "name": "com.miui.global.packageinstaller",
+            "processId": 16399,
+            "exited": false
+        },
+        {
+            "deviceId": "fugmuoros8obrsdi",
+            "name": "pink.dragons.mintbrain",
+            "processId": 17059,
+            "exited": false
+        },
+        {
+            "deviceId": "754ad447",
+            "name": "pink.dragons.mintbrain",
+            "processId": 14017,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

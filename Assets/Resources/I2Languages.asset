@@ -1,0 +1,4364 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: FINISH_MAZE
+      TermType: 0
+      Description: 
+      Languages:
+      - Finish
+      - "\u0424\u0438\u043D\u0438\u0448"
+      - Terminar
+      - Fertig
+      - Terminer
+      - Finire
+      - Finalizar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_ADS
+      TermType: 0
+      Description: 
+      Languages:
+      - Get a hint
+      - "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 \u043F\u043E\u0434\u0441\u043A\u0430\u0437\u043A\u0443"
+      - Veja uma dica
+      - Einen Hinweis erhalten
+      - Avoir un indice
+      - Ottieni un suggerimento
+      - "Obt\xE9n un consejo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_100_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Put the electricity
+      - "\u041F\u0440\u043E\u0432\u0435\u0434\u0438 \u0442\u043E\u043A"
+      - Coloque a eletricidade
+      - Setzen Sie den Strom
+      - "Mettez l'\xE9lectricit\xE9"
+      - "Metti l'elettricit\xE0"
+      - Pon la electricidad
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_100_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Spin it
+      - "\u0412\u0440\u0430\u0449\u0430\u0439"
+      - Girar
+      - Dreh es
+      - Faites tourner
+      - Gira
+      - "G\xEDralo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_100_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Move the right wire
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0449\u0430\u0439 \u043F\u0440\u0430\u0432\u044B\u0439
+        \u043F\u0440\u043E\u0432\u043E\u0434"
+      - Mova o fio certo
+      - Bewegen Sie den rechten Draht
+      - "D\xE9placez le bon fil"
+      - Spostare il filo destro
+      - Mueve el cable correcto
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_10_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Restore it
+      - "\u0412\u043E\u0441\u0441\u0442\u0430\u043D\u0430\u0432\u043B\u0438\u0432\u0430\u0439"
+      - Restaurar
+      - Stellen Sie es wieder her
+      - Restaurez-le
+      - Ripristinalo
+      - Restaurarlo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_10_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Make a mint screen
+      - "\u0421\u0434\u0435\u043B\u0430\u0439 \u043C\u044F\u0442\u043D\u044B\u0439
+        \u044D\u043A\u0440\u0430\u043D"
+      - "Fa\xE7a uma tela de hortel\xE3"
+      - Machen Sie einen Minzbildschirm
+      - "Faire un \xE9cran \xE0 la menthe"
+      - Crea uno schermo alla menta
+      - Haz una pantalla de menta
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_10_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Connect the pieces
+      - "\u0421\u043E\u0435\u0434\u0438\u043D\u0438 \u043E\u0441\u043A\u043E\u043B\u043A\u0438"
+      - "Conecte as pe\xE7as"
+      - Verbinden Sie die Teile
+      - "Connectez les pi\xE8ces"
+      - Collega i pezzi
+      - Conecta las piezas
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_11_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Oh, the rope!
+      - "\u041E, \u043A\u0430\u043D\u0430\u0442!"
+      - Oh, a corda!
+      - Oh, das Seil!
+      - Oh, la corde!
+      - Oh, la corda!
+      - "\xA1Oh, la cuerda!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_11_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Pull!
+      - "\u0422\u044F\u043D\u0438!"
+      - Puxe!
+      - Ziehen!
+      - Tirer!
+      - Tirare!
+      - "\xA1Jalar!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_11_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Pull again
+      - "\u0422\u044F\u043D\u0438 \u0435\u0449\u0435!"
+      - Puxe novamente
+      - Wieder ziehen
+      - "Tirez \xE0 nouveau"
+      - Tira di nuovo
+      - Tira de nuevo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_12_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Look for the button
+      - "\u0418\u0449\u0438 \u043A\u043D\u043E\u043F\u043A\u0443"
+      - "Procure o bot\xE3o"
+      - Suchen Sie nach dem Knopf
+      - Cherchez le bouton
+      - Cerca il pulsante
+      - "Busca el bot\xF3n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_12_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Turn on light
+      - "\u0412\u043A\u043B\u044E\u0447\u0438 \u0441\u0432\u0435\u0442"
+      - Acender luz
+      - Mach das Licht an
+      - "Allume la lumi\xE8re"
+      - Accendi la luce
+      - Enciende la luz
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_12_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Scare the bat away
+      - "\u0421\u043F\u0443\u0433\u043D\u0438 \u043B\u0435\u0442\u0443\u0447\u0443\u044E
+        \u043C\u044B\u0448\u044C"
+      - Afaste o morcego
+      - Schrecken Sie die Fledermaus weg
+      - Effrayer la chauve-souris
+      - Spaventa il pipistrello
+      - "Asustar al murci\xE9lago"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_13_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Break the screen
+      - "\u0420\u0430\u0437\u0431\u0435\u0439 \u044D\u043A\u0440\u0430\u043D"
+      - Quebre a tela
+      - Brechen Sie den Bildschirm
+      - "Briser l'\xE9cran"
+      - Rompi lo schermo
+      - Romper la pantalla
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_13_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Hit the center
+      - "\u0411\u0435\u0439 \u0432 \u0446\u0435\u043D\u0442\u0440"
+      - Acertar o centro
+      - Schlagen Sie die Mitte
+      - Frappez le centre
+      - Colpisci il centro
+      - Golpea el centro
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_13_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Beat to the end
+      - "\u0411\u0435\u0439 \u0434\u043E \u043A\u043E\u043D\u0446\u0430"
+      - "Bater at\xE9 o fim"
+      - Bis zum Ende schlagen
+      - Battre jusqu'au bout
+      - Batti fino alla fine
+      - Batir hasta el final
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_14_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Look for the black circle
+      - "\u0418\u0449\u0438 \u0447\u0451\u0440\u043D\u044B\u0439 \u043A\u0440\u0443\u0433"
+      - "Procure o c\xEDrculo preto"
+      - Suchen Sie nach dem schwarzen Kreis
+      - Cherchez le cercle noir
+      - Cerca il cerchio nero
+      - Busca el circulo negro
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_14_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the accelerometer
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0430\u043A\u0441\u0435\u043B\u0435\u0440\u043E\u043C\u0435\u0442\u0440"
+      - "Use o aceler\xF4metro"
+      - Verwenden Sie den Beschleunigungsmesser
+      - "Utilisez l'acc\xE9l\xE9rom\xE8tre"
+      - Usa l'accelerometro
+      - "Usa el aceler\xF3metro"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_14_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Flip the screen and tap
+      - "\u041F\u0435\u0440\u0435\u0432\u0435\u0440\u043D\u0438 \u044D\u043A\u0440\u0430\u043D
+        \u0438 \u043D\u0430\u0436\u043C\u0438"
+      - Vire a tela e toque
+      - Klappen Sie den Bildschirm um und tippen Sie auf
+      - "Retournez l'\xE9cran et appuyez sur"
+      - Capovolgi lo schermo e tocca
+      - Da la vuelta a la pantalla y toca
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_15_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Find the order
+      - "\u041D\u0430\u0439\u0434\u0438 \u043E\u0447\u0435\u0440\u0435\u0434\u043D\u043E\u0441\u0442\u044C"
+      - Encontre o pedido
+      - Finden Sie die Bestellung
+      - Trouvez la commande
+      - Trova l'ordine
+      - Encuentra el pedido
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_15_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Go in ascending order
+      - "\u0418\u0434\u0438 \u043F\u043E \u0432\u043E\u0437\u0440\u0430\u0441\u0442\u0430\u043D\u0438\u044E"
+      - "V\xE1 em ordem crescente"
+      - Gehe in aufsteigender Reihenfolge
+      - Aller dans l'ordre croissant
+      - Procedi in ordine crescente
+      - Ir en orden ascendente
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_15_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Count the corners
+      - "\u0421\u0447\u0438\u0442\u0430\u0439 \u0443\u0433\u043B\u044B"
+      - Conte os cantos
+      - "Z\xE4hle die Ecken"
+      - Comptez les coins
+      - Conta gli angoli
+      - Cuenta las esquinas
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_16_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Find the element
+      - "\u041D\u0430\u0439\u0434\u0438 \u044D\u043B\u0435\u043C\u0435\u043D\u0442"
+      - Encontre o elemento
+      - Finde das Element
+      - "Trouvez l'\xE9l\xE9ment"
+      - Trova l'elemento
+      - Encuentra el elemento
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_16_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0449\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_16_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Combine
+      - "\u0421\u043E\u0432\u043C\u0435\u0449\u0430\u0439"
+      - Combinar
+      - Kombinieren
+      - Combiner
+      - Combinare
+      - Combinar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_17_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Draw
+      - "\u0420\u0438\u0441\u0443\u0439"
+      - Desenhar
+      - Zeichnen
+      - Tirer
+      - Disegnare
+      - Dibujar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_17_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Draw again
+      - "\u0420\u0438\u0441\u0443\u0439 \u0435\u0449\u0435"
+      - Desenhe novamente
+      - Zeichne noch einmal
+      - "Dessiner \xE0 nouveau"
+      - Disegna di nuovo
+      - Dibuja de nuevo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_17_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Cover the screen
+      - "\u0417\u0430\u043A\u0440\u0430\u0441\u044C \u044D\u043A\u0440\u0430\u043D"
+      - Cubra a tela
+      - Decken Sie den Bildschirm ab
+      - "Couvrir l'\xE9cran"
+      - Copri lo schermo
+      - Cubrir la pantalla
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_18_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0449\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_18_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Combine
+      - "\u0421\u043E\u0432\u043C\u0435\u0449\u0430\u0439"
+      - Combinar
+      - Kombinieren
+      - Combiner
+      - Combinare
+      - Combinar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_18_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Use gestures
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0436\u0435\u0441\u0442\u044B"
+      - Use gestos
+      - Verwenden Sie Gesten
+      - Utilisez des gestes
+      - Usa i gesti
+      - Usa gestos
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_19_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Come out
+      - "\u0412\u044B\u0445\u043E\u0434\u0438"
+      - Sair
+      - Herauskommen
+      - Sortir
+      - Uscire
+      - Salga
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_19_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Go along
+      - "\u0418\u0434\u0438 \u0432\u0434\u0430\u043B\u044C"
+      - Acompanhar
+      - Geh mit
+      - Aller le long de
+      - Vai avanti
+      - Marcharse
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_19_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the gesture
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0436\u0435\u0441\u0442"
+      - Use o gesto
+      - Verwenden Sie die Geste
+      - Utilisez le geste
+      - Usa il gesto
+      - Usa el gesto
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_1_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Turn on the game
+      - "\u0412\u043A\u043B\u044E\u0447\u0438 \u0438\u0433\u0440\u0443"
+      - Liga o jogo
+      - Schalten Sie das Spiel ein
+      - Allumez le jeu
+      - Accendi il gioco
+      - Enciende el juego
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_1_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Push
+      - "\u041D\u0430\u0436\u043C\u0438"
+      - Empurrar
+      - "Dr\xFCcken"
+      - Poussez
+      - Spingere
+      - Empujar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_1_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Press the power button
+      - "\u041D\u0430\u0436\u043C\u0438 \u043D\u0430 \u043A\u043D\u043E\u043F\u043A\u0443
+        \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F"
+      - "Pressione o bot\xE3o liga / desliga"
+      - "Dr\xFCcke den Power Knopf"
+      - appuyez sur le bouton d'allumage
+      - Premi il pulsante di accensione
+      - presiona el boton de poder
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_20_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Help the face
+      - "\u041F\u043E\u043C\u043E\u0433\u0438 \u0440\u043E\u0436\u0438\u0446\u0435"
+      - Ajuda o cara
+      - Hilf dem Gesicht
+      - Aide le visage
+      - Aiuta il viso
+      - Ayuda a la cara
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_20_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u041F\u0435\u0440\u0435\u0434\u0432\u0438\u0433\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_20_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Move your eyes to the exit
+      - "\u041F\u0435\u0440\u0435\u0434\u0432\u0438\u043D\u044C \u0432\u0437\u0433\u043B\u044F\u0434
+        \u043D\u0430 \u0432\u044B\u0445\u043E\u0434"
+      - "Mova seus olhos para a sa\xEDda"
+      - Bewegen Sie Ihre Augen zum Ausgang
+      - Bougez vos yeux vers la sortie
+      - Muovi gli occhi verso l'uscita
+      - Mueve tus ojos hacia la salida
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_21_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Use paper
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0431\u0443\u043C\u0430\u0433\u0443"
+      - Use papel
+      - Verwenden Sie Papier
+      - Utilisez du papier
+      - Usa la carta
+      - Utilizar papel
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_21_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Throw away the paper
+      - "\u0412\u044B\u043A\u0438\u043D\u044C \u0431\u0443\u043C\u0430\u0433\u0443"
+      - Jogue fora o papel
+      - Wirf das Papier weg
+      - Jeter le papier
+      - Butta via la carta
+      - Tira el papel
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_21_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the gesture
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0436\u0435\u0441\u0442"
+      - Use o gesto
+      - Verwenden Sie die Geste
+      - Utilisez le geste
+      - Usa il gesto
+      - Usa el gesto
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_22_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Go to the right
+      - "\u0418\u0434\u0438 \u0432\u043F\u0440\u0430\u0432\u043E"
+      - "V\xE1 para a direita"
+      - Geh nach rechts
+      - Allez vers la droite
+      - Vai a destra
+      - Ve a la derecha
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_22_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Move the screen to the left
+      - "\u0414\u0432\u0438\u0433\u0430\u0439 \u044D\u043A\u0440\u0430\u043D \u0432\u043B\u0435\u0432\u043E"
+      - Mova a tela para a esquerda
+      - Bewegen Sie den Bildschirm nach links
+      - "D\xE9placez l'\xE9cran vers la gauche"
+      - Sposta lo schermo a sinistra
+      - Mueve la pantalla a la izquierda
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_22_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Move long
+      - "\u0414\u0432\u0438\u0433\u0430\u0439 \u0434\u043E\u043B\u0433\u043E"
+      - Mova-se por muito tempo
+      - Bewegen Sie sich lange
+      - Bouger longtemps
+      - Muoviti a lungo
+      - "Mu\xE9vete mucho"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_23_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the accelerometer
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0430\u043A\u0441\u0435\u043B\u0435\u0440\u043E\u043C\u0435\u0442\u0440"
+      - "Use o aceler\xF4metro"
+      - Verwenden Sie den Beschleunigungsmesser
+      - "Utilisez l'acc\xE9l\xE9rom\xE8tre"
+      - Usa l'accelerometro
+      - "Usa el aceler\xF3metro"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_23_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Shake for a long time
+      - "\u0422\u0440\u044F\u0441\u0438 \u0434\u043E\u043B\u0433\u043E"
+      - Agite por muito tempo
+      - "Lange sch\xFCtteln"
+      - Secouez pendant longtemps
+      - Agita a lungo
+      - Agitar durante mucho tiempo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_23_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Shake hard in all directions
+      - "\u0422\u0440\u044F\u0441\u0438 \u0441\u0438\u043B\u044C\u043D\u043E \u0432\u043E
+        \u0432\u0441\u0435 \u0441\u0442\u043E\u0440\u043E\u043D\u044B"
+      - "Agite forte em todas as dire\xE7\xF5es"
+      - "In alle Richtungen stark sch\xFCtteln"
+      - Secouez fort dans toutes les directions
+      - Scuoti forte in tutte le direzioni
+      - Agitar fuerte en todas direcciones
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_24_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Exit the level
+      - "\u0412\u044B\u0439\u0434\u0438 \u0438\u0437 \u0443\u0440\u043E\u0432\u043D\u044F"
+      - "Saia do n\xEDvel"
+      - Verlasse das Level
+      - Sortir du niveau
+      - Esci dal livello
+      - Salir del nivel
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_24_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Open it
+      - "\u041E\u0442\u043A\u0440\u043E\u0439"
+      - Abra
+      - "\xD6ffne es"
+      - Ouvrez-le
+      - Aprilo
+      - Abrelo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_24_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Pull the door handle
+      - "\u041F\u043E\u0442\u044F\u043D\u0438 \u0437\u0430 \u0434\u0432\u0435\u0440\u043D\u0443\u044E
+        \u0440\u0443\u043A\u0443"
+      - "Puxe a ma\xE7aneta da porta"
+      - "Ziehen Sie den T\xFCrgriff"
+      - "Tirez la poign\xE9e de la porte"
+      - Tirare la maniglia della porta
+      - Tira de la manija de la puerta
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_25_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Look at the shadow
+      - "\u0421\u043C\u043E\u0442\u0440\u0438 \u043D\u0430 \u0442\u0435\u043D\u044C"
+      - Olha a sombra
+      - Schau dir den Schatten an
+      - Regarde l'ombre
+      - Guarda l'ombra
+      - Mira la sombra
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_25_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Where should the sun shine from?
+      - "\u041E\u0442\u043A\u0443\u0434\u0430 \u0434\u043E\u043B\u0436\u043D\u043E
+        \u0441\u0432\u0435\u0442\u0438\u0442\u044C \u0441\u043E\u043B\u043D\u0446\u0435?"
+      - De onde deve brilhar o sol?
+      - Woher soll die Sonne scheinen?
+      - "D'o\xF9 le soleil devrait-il briller?"
+      - Da dove dovrebbe splendere il sole?
+      - "\xBFDe d\xF3nde deber\xEDa brillar el sol?"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_25_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Very close to the word
+      - "\u041E\u0447\u0435\u043D\u044C \u0431\u043B\u0438\u0437\u043A\u043E \u0432\u043E\u0437\u043B\u0435
+        \u0441\u043B\u043E\u0432\u0430"
+      - Muito perto da palavra
+      - Sehr nah am Wort
+      - "Tr\xE8s proche du mot"
+      - Molto vicino alla parola
+      - Muy cerca de la palabra
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_26_1
+      TermType: 0
+      Description: 
+      Languages:
+      - They should leave
+      - "\u041E\u043D\u0438 \u0434\u043E\u043B\u0436\u043D\u044B \u0443\u0435\u0445\u0430\u0442\u044C"
+      - Eles deveriam sair
+      - Sie sollten gehen
+      - Ils devraient partir
+      - Dovrebbero andarsene
+      - "Deber\xEDan irse"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_26_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Catch the moment
+      - "\u041B\u043E\u0432\u0438 \u043C\u043E\u043C\u0435\u043D\u0442"
+      - Pegue o momento
+      - Fange den Moment
+      - Saisissez le moment
+      - Cogli l'attimo
+      - Captura el momento
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_26_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Arrows show the direction
+      - "\u0421\u0442\u0440\u0435\u043B\u043A\u0438 \u043F\u043E\u043A\u0430\u0437\u044B\u0432\u0430\u044E\u0442
+        \u043D\u0430\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435"
+      - "As setas mostram a dire\xE7\xE3o"
+      - Pfeile zeigen die Richtung
+      - "Les fl\xE8ches indiquent la direction"
+      - Le frecce mostrano la direzione
+      - "Las flechas muestran la direcci\xF3n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_27_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Clear the screen
+      - "\u041E\u0447\u0438\u0441\u0442\u0438 \u044D\u043A\u0440\u0430\u043D"
+      - Limpar a tela
+      - "L\xF6schen Sie den Bildschirm"
+      - "Effacer l'\xE9cran"
+      - Cancella lo schermo
+      - Limpiar la pantalla
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_27_2
+      TermType: 0
+      Description: 
+      Languages:
+      - The picture should fall
+      - "\u041A\u0430\u0440\u0442\u0438\u043D\u0430 \u0434\u043E\u043B\u0436\u043D\u0430
+        \u0443\u043F\u0430\u0441\u0442\u044C"
+      - A imagem deve cair
+      - Das Bild sollte fallen
+      - L'image devrait tomber
+      - L'immagine dovrebbe cadere
+      - "La imagen deber\xEDa caer"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_27_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Take out the nail
+      - "\u0414\u043E\u0441\u0442\u0430\u043D\u044C \u0433\u0432\u043E\u0437\u0434\u044C"
+      - Tira o prego
+      - Nehmen Sie den Nagel heraus
+      - Retirez le clou
+      - Togli l'unghia
+      - "Saca la u\xF1a"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_28_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Connect the lamp to the network
+      - "\u041F\u043E\u0434\u043A\u043B\u044E\u0447\u0438 \u043B\u0430\u043C\u043F\u0443
+        \u0432 \u0441\u0435\u0442\u044C"
+      - "Conecte a l\xE2mpada \xE0 rede"
+      - "Schlie\xDFen Sie die Lampe an das Netzwerk an"
+      - "Connectez la lampe au r\xE9seau"
+      - Collega la lampada alla rete
+      - "Conecte la l\xE1mpara a la red"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_28_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Look for an outlet
+      - "\u0418\u0449\u0438 \u0440\u043E\u0437\u0435\u0442\u043A\u0443"
+      - "Procure uma sa\xEDda"
+      - Suchen Sie nach einer Steckdose
+      - "Cherchez un d\xE9bouch\xE9"
+      - Cerca uno sbocco
+      - Busque una salida
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_28_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Move the screen with the gestures
+      - "\u0414\u0432\u0438\u0433\u0430\u0439 \u044D\u043A\u0440\u0430\u043D \u0441\u0432\u0430\u0439\u043F\u0430\u043C\u0438"
+      - Mova a tela com os gestos
+      - Bewegen Sie den Bildschirm mit den Gesten
+      - "D\xE9placez l'\xE9cran avec les gestes"
+      - Sposta lo schermo con i gesti
+      - Mueve la pantalla con los gestos
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_29_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Use gestures
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0436\u0435\u0441\u0442\u044B"
+      - Use gestos
+      - Verwenden Sie Gesten
+      - Utilisez des gestes
+      - Usa i gesti
+      - Usa gestos
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_29_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Expande the hole
+      - "\u0423\u0432\u0435\u043B\u0438\u0447\u044C \u0434\u044B\u0440\u043A\u0443"
+      - Expande o buraco
+      - Erweitern Sie das Loch
+      - "\xC9largir le trou"
+      - Espandi il buco
+      - Expande el agujero
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_29_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Zoom in until you see the spider
+      - "\u0423\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0439 \u043F\u043E\u043A\u0430
+        \u043D\u0435 \u0443\u0432\u0438\u0434\u0438\u0448\u044C \u043F\u0430\u0443\u043A\u0430"
+      - "Amplie at\xE9 ver a aranha"
+      - Zoomen Sie hinein, bis Sie die Spinne sehen
+      - "Zoomez jusqu'\xE0 ce que vous voyiez l'araign\xE9e"
+      - "Ingrandisci finch\xE9 non vedi il ragno"
+      - "Ac\xE9rcate hasta que veas la ara\xF1a"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_2_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u0414\u0432\u0438\u0433\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_2_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Combine
+      - "\u0421\u043E\u0432\u043C\u0435\u0449\u0430\u0439"
+      - Combinar
+      - Kombinieren
+      - Combiner
+      - Combinare
+      - Combinar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_2_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Push it
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Empurre-o
+      - "Dr\xFCck es"
+      - Poussez-le
+      - Spingilo
+      - Empujalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_30_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Fill in the square
+      - "\u0417\u0430\u043F\u043E\u043B\u043D\u0438 \u043A\u0432\u0430\u0434\u0440\u0430\u0442"
+      - Preencha o quadrado
+      - "F\xFCllen Sie das Quadrat aus"
+      - "Remplissez le carr\xE9"
+      - Compila il quadrato
+      - Completa el cuadrado
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_30_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Remember the sequence
+      - "\u0417\u0430\u043F\u043E\u043C\u043D\u0438 \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+      - "Lembre-se da sequ\xEAncia"
+      - Erinnere dich an die Reihenfolge
+      - "Rappelez-vous la s\xE9quence"
+      - Ricorda la sequenza
+      - Recuerda la secuencia
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_30_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Drag and drop in order
+      - "\u041F\u0435\u0440\u0435\u0442\u0430\u0441\u043A\u0438\u0432\u0430\u0439
+        \u043F\u043E \u043F\u043E\u0440\u044F\u0434\u043A\u0443"
+      - Arraste e solte em ordem
+      - Drag & Drop in der Reihenfolge
+      - "Glissez-d\xE9posez dans l'ordre"
+      - Trascina e rilascia in ordine
+      - Arrastra y suelta en orden
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_31_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Leaves fall in autumn
+      - "\u041E\u0441\u0435\u043D\u044C\u044E \u043F\u0430\u0434\u0430\u044E\u0442
+        \u043B\u0438\u0441\u0442\u044C\u044F"
+      - Folhas caem no outono
+      - "Die Bl\xE4tter fallen im Herbst"
+      - Les feuilles tombent en automne
+      - Le foglie cadono in autunno
+      - "Las hojas caen en oto\xF1o"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_31_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Shake the phone
+      - "\u041F\u043E\u0442\u0440\u044F\u0441\u0438 \u0442\u0435\u043B\u0435\u0444\u043E\u043D"
+      - Agite o telefone
+      - "Sch\xFCtteln Sie das Telefon"
+      - "Secouez le t\xE9l\xE9phone"
+      - "Scuoti il \u200B\u200Btelefono"
+      - Agita el telefono
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_31_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Shake until all the leaves fall
+      - "\u0422\u0440\u044F\u0441\u0438 \u043F\u043E\u043A\u0430 \u043D\u0435 \u0443\u043F\u0430\u0434\u0443\u0442
+        \u0432\u0441\u0435 \u043B\u0438\u0441\u0442\u044C\u044F"
+      - "Agite at\xE9 que todas as folhas caiam"
+      - "Sch\xFCtteln, bis alle Bl\xE4tter fallen"
+      - "Secouez jusqu'\xE0 ce que toutes les feuilles tombent"
+      - "Agita finch\xE9 tutte le foglie cadono"
+      - Agitar hasta que caigan todas las hojas
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_32_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Break The Egg
+      - "\u0420\u0430\u0437\u0431\u0435\u0439 \u042F\u0439\u0446\u043E"
+      - Quebrar O Ovo
+      - Brechen Sie Das Ei
+      - "Casser L'\u0153uf"
+      - Rompere L'uovo
+      - Romper El Huevo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_32_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Hit more than you need to
+      - "\u0411\u0435\u0439 \u0434\u043E\u043B\u044C\u0448\u0435 \u0447\u0435\u043C
+        \u043D\u0443\u0436\u043D\u043E"
+      - "Acerte mais do que voc\xEA precisa"
+      - "Schlagen Sie mehr als n\xF6tig"
+      - "Frappez plus que n\xE9cessaire"
+      - "Colpisci pi\xF9 del necessario"
+      - "Golpea m\xE1s de lo necesario"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_32_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Fill -100
+      - "\u041D\u0430\u0431\u0435\u0439 -100"
+      - Preencher -100
+      - "F\xFClle -100"
+      - Remplir -100
+      - Riempimento -100
+      - Llenar -100
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_33_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Clear the screen
+      - "\u041E\u0447\u0438\u0441\u0442\u0438 \u044D\u043A\u0440\u0430\u043D"
+      - Limpar a tela
+      - "L\xF6schen Sie den Bildschirm"
+      - "Effacer l'\xE9cran"
+      - Cancella lo schermo
+      - Limpiar la pantalla
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_33_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Do what they say
+      - "\u0414\u0435\u043B\u0430\u0439 \u0447\u0442\u043E \u0433\u043E\u0432\u043E\u0440\u044F\u0442"
+      - "Fa\xE7a o que eles dizem"
+      - Tu was sie sagen
+      - Fais ce qu'ils disent
+      - Fai quello che dicono
+      - Haz lo que dicen
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_33_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "Left-click-right \u2026"
+      - "\u0412\u043B\u0435\u0432\u043E - \u043A\u043B\u0438\u043A - \u0432\u043F\u0440\u0430\u0432\u043E
+        \u2026"
+      - Clique esquerdo-direito ...
+      - "Linksklick-Rechts\u2026"
+      - "Clic gauche-droit\u2026"
+      - Tasto sinistro clic destro ...
+      - "Clic izquierdo-derecho\u2026"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_34_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Find Christmas toys
+      - "\u041D\u0430\u0439\u0434\u0438 \u0435\u043B\u043E\u0447\u043D\u044B\u0435
+        \u0438\u0433\u0440\u0443\u0448\u043A\u0438"
+      - Encontre brinquedos de natal
+      - Finde Weihnachtsspielzeug
+      - "Trouver des jouets de No\xEBl"
+      - Trova i giocattoli di Natale
+      - "Encuentra juguetes navide\xF1os"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_34_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Dress up the Christmas tree
+      - "\u041D\u0430\u0440\u044F\u0434\u0438 \u0435\u043B\u043A\u0443"
+      - "Enfeite a \xE1rvore de natal"
+      - Zieh den Weihnachtsbaum an
+      - "Habillez le sapin de No\xEBl"
+      - Vesti l'albero di Natale
+      - "Viste el \xE1rbol de Navidad"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_34_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Everyone has their own place
+      - "\u0423 \u043A\u0430\u0436\u0434\u043E\u0433\u043E \u0441\u0432\u043E\u0435
+        \u043C\u0435\u0441\u0442\u043E"
+      - Cada um tem seu lugar
+      - Jeder hat seinen eigenen Platz
+      - Chacun a sa place
+      - Ognuno ha il proprio posto
+      - Todos tienen su propio lugar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_35_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Restore the justice
+      - "\u0412\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u0438 \u0441\u043F\u0440\u0430\u0432\u0435\u0434\u043B\u0438\u0432\u043E\u0441\u0442\u044C"
+      - "Restaurar a justi\xE7a"
+      - Stellen Sie die Gerechtigkeit wieder her
+      - Restaurer la justice
+      - Ripristina la giustizia
+      - Restaurar la justicia
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_35_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Move the weights
+      - "\u0414\u0432\u0438\u0433\u0430\u0439 \u0433\u0438\u0440\u0438"
+      - Mova os pesos
+      - Bewegen Sie die Gewichte
+      - "D\xE9placez les poids"
+      - Sposta i pesi
+      - Mueve los pesos
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_35_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Align the scales
+      - "\u0412\u044B\u0440\u043E\u0432\u043D\u044F\u0439 \u0432\u0435\u0441\u044B"
+      - Alinhe as escalas
+      - Richten Sie die Waage aus
+      - "Alignez les \xE9chelles"
+      - Allinea le scale
+      - Alinear las escalas
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_36_1
+      TermType: 0
+      Description: 
+      Languages:
+      - It's a mint paint bomb
+      - "\u042D\u0442\u0430 \u0431\u043E\u043C\u0431\u0430 \u0441 \u043C\u044F\u0442\u043D\u043E\u0439
+        \u043A\u0440\u0430\u0441\u043A\u043E\u0439"
+      - "\xC9 uma bomba de tinta de menta"
+      - Es ist eine Minzfarbenbombe
+      - "C'est une bombe de peinture \xE0 la menthe"
+      - "\xC8 una bomba alla menta"
+      - Es una bomba de pintura de menta
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_36_2
+      TermType: 0
+      Description: 
+      Languages:
+      - It should explode
+      - "\u041E\u043D\u0430 \u0434\u043E\u043B\u0436\u043D\u0430 \u0432\u0437\u043E\u0440\u0432\u0430\u0442\u044C\u0441\u044F"
+      - Deve explodir
+      - Es sollte explodieren
+      - Il devrait exploser
+      - Dovrebbe esplodere
+      - "Deber\xEDa explotar"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_36_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Don't touch the wires
+      - "\u041D\u0435 \u0442\u0440\u043E\u0433\u0430\u0439 \u043F\u0440\u043E\u0432\u043E\u0434\u0430"
+      - "N\xE3o toque nos fios"
+      - "Ber\xFChren Sie nicht die Dr\xE4hte"
+      - Ne touchez pas les fils
+      - Non toccare i fili
+      - No toques los cables
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_37_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Find the key
+      - "\u041D\u0430\u0439\u0434\u0438 \u043A\u043B\u044E\u0447"
+      - Ache a chave
+      - "Finde den Schl\xFCssel"
+      - "Trouve la cl\xE9"
+      - Trova la chiave
+      - Encontrar la llave
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_37_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Move the mat
+      - "\u0414\u0432\u0438\u0433\u0430\u0439 \u043A\u043E\u0432\u0440\u0438\u043A"
+      - Mova o tapete
+      - Bewegen Sie die Matte
+      - "D\xE9placez le tapis"
+      - Sposta il tappetino
+      - Mueve la alfombra
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_37_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Open the door
+      - "\u041E\u0442\u043A\u0440\u043E\u0439 \u0434\u0432\u0435\u0440\u044C"
+      - Abra a porta
+      - "\xD6ffne die T\xFCr"
+      - Ouvre la porte
+      - Apri la porta
+      - Abre la puerta
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_38_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Take a dip in the sea
+      - "\u041E\u043A\u0443\u043D\u0438\u0441\u044C \u0432 \u043C\u043E\u0440\u0435"
+      - "D\xEA um mergulho no mar"
+      - Tauchen Sie ein ins Meer
+      - Faites un plongeon dans la mer
+      - Fai un tuffo in mare
+      - "Darte un chapuz\xF3n en el mar"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_38_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Follow the tracks
+      - "\u0418\u0434\u0438 \u043F\u043E \u0441\u043B\u0435\u0434\u0430\u043C"
+      - Siga as trilhas
+      - Folgen Sie den Spuren
+      - Suivez les traces
+      - Segui le tracce
+      - Sigue las pistas
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_38_3
+      TermType: 0
+      Description: 
+      Languages:
+      - One leg is always standing
+      - "\u041E\u0434\u043D\u0430 \u043D\u043E\u0433\u0430 \u0441\u0442\u043E\u0438\u0442
+        \u0432\u0441\u0435\u0433\u0434\u0430"
+      - "Uma perna est\xE1 sempre em p\xE9"
+      - Ein Bein steht immer
+      - Une jambe est toujours debout
+      - "Una gamba \xE8 sempre in piedi"
+      - "Una pierna siempre est\xE1 parada"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_39_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Find the code
+      - "\u041D\u0430\u0439\u0434\u0438 \u043A\u043E\u0434"
+      - "Encontre o c\xF3digo"
+      - Finden Sie den Code
+      - Trouvez le code
+      - Trova il codice
+      - "Encuentra el c\xF3digo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_39_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Use your glasses
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u043E\u0447\u043A\u0438"
+      - "Use seus \xF3culos"
+      - Benutze deine Brille
+      - Utilisez vos lunettes
+      - Usa gli occhiali
+      - Usa tus lentes
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_39_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Enter the code
+      - "\u0412\u0432\u0435\u0434\u0438 \u043A\u043E\u0434"
+      - "Digite o c\xF3digo"
+      - Gib den code ein
+      - Entrer le code
+      - Inserisci il codice
+      - "Inserte el c\xF3digo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_3_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0449\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_3_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Connect it
+      - "\u0421\u043E\u0435\u0434\u0438\u043D\u0438"
+      - Conecte
+      - "Schlie\xDFen Sie es an"
+      - Connectez-le
+      - Collegalo
+      - Conectarlo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_3_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Fill it out
+      - "\u0417\u0430\u043F\u043E\u043B\u043D\u0438"
+      - Preencha
+      - "F\xFCll es aus"
+      - Remplis-le
+      - Riempilo
+      - Llenalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_40_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Don't touch the matche
+      - "\u041D\u0435 \u0442\u0440\u043E\u0433\u0430\u0439 \u0441\u043F\u0438\u0447\u043A\u0438"
+      - "N\xE3o toque no matche"
+      - "Ber\xFChren Sie nicht die Matche"
+      - Ne touchez pas le match
+      - Non toccare il matche
+      - No toques el matche
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_40_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the accelerometer
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0430\u043A\u0441\u0435\u043B\u0435\u0440\u043E\u043C\u0435\u0442\u0440"
+      - "Use o aceler\xF4metro"
+      - Verwenden Sie den Beschleunigungsmesser
+      - "Utilisez l'acc\xE9l\xE9rom\xE8tre"
+      - Usa l'accelerometro
+      - "Usa el aceler\xF3metro"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_40_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Flip the screen
+      - "\u041F\u0435\u0440\u0435\u0432\u0435\u0440\u043D\u0438 \u044D\u043A\u0440\u0430\u043D"
+      - Virar a tela
+      - Klappen Sie den Bildschirm um
+      - "Retourner l'\xE9cran"
+      - Capovolgi lo schermo
+      - Voltea la pantalla
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_41_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Wait until morning
+      - "\u0414\u043E\u0436\u0434\u0438\u0441\u044C \u0443\u0442\u0440\u0430"
+      - "Espere at\xE9 de manh\xE3"
+      - Warten Sie bis zum Morgen
+      - Attends le matin
+      - Aspetta fino al mattino
+      - "Espera hasta la ma\xF1ana"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_41_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Manage your time
+      - "\u0423\u043F\u0440\u0430\u0432\u043B\u044F\u0439 \u0432\u0440\u0435\u043C\u0435\u043D\u0435\u043C"
+      - Gerencie seu tempo
+      - Plane deine Zeit
+      - "G\xE9rer votre temps"
+      - Gestisci il tuo tempo
+      - Maneja tu tiempo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_41_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Spin the arrows
+      - "\u041F\u0435\u0440\u0435\u0432\u0435\u0434\u0438 \u0441\u0442\u0440\u0435\u043B\u043A\u0438"
+      - Gire as flechas
+      - Drehen Sie die Pfeile
+      - "Faites tourner les fl\xE8ches"
+      - Gira le frecce
+      - Gira las flechas
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_42_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Find a cockroach
+      - "\u041D\u0430\u0439\u0434\u0438 \u0442\u0430\u0440\u0430\u043A\u0430\u043D\u0430"
+      - Encontre uma barata
+      - Finde eine Kakerlake
+      - Trouver un cafard
+      - Trova uno scarafaggio
+      - Encuentra una cucaracha
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_42_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Move the magnifying glass
+      - "\u0414\u0432\u0438\u0433\u0430\u0439 \u043B\u0443\u043F\u0443"
+      - Mova a lupa
+      - Bewegen Sie die Lupe
+      - "D\xE9placez la loupe"
+      - Muovi la lente d'ingrandimento
+      - Mueve la lupa
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_42_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Click on the cockroach
+      - "\u041D\u0430\u0436\u043C\u0438 \u043D\u0430 \u0442\u0430\u0440\u0430\u043A\u0430\u043D\u0430"
+      - Clique na barata
+      - Klicken Sie auf die Kakerlake
+      - Cliquez sur le cafard
+      - Fare clic sullo scarafaggio
+      - Haga clic en la cucaracha
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_43_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Don't pop the balloons
+      - "\u041D\u0435 \u043B\u043E\u043F\u0430\u0439 \u0448\u0430\u0440\u044B"
+      - "N\xE3o estoure os bal\xF5es"
+      - Pop die Luftballons nicht
+      - "Ne fais pas \xE9clater les ballons"
+      - Non far scoppiare i palloncini
+      - No revientes los globos
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_43_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Release them
+      - "\u041E\u0441\u0432\u043E\u0431\u043E\u0434\u0438 \u0438\u0445"
+      - Liberte-os
+      - Lasse sie frei
+      - "Lib\xE9rez-les"
+      - Liberali
+      - Liberalos
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_43_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Cut the ropes
+      - "\u041E\u0431\u0440\u0435\u0436\u044C \u0432\u0435\u0440\u0435\u0432\u043A\u0438"
+      - Corte as cordas
+      - Schneiden Sie die Seile
+      - Coupez les cordes
+      - Taglia le corde
+      - Corta las cuerdas
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_44_1
+      TermType: 0
+      Description: 
+      Languages:
+      - ... _ _ _ ...
+      - ... _ _ _ ...
+      - ... _ _ _ ...
+      - ... _ _ _ ...
+      - ... _ _ _ ...
+      - ... _ _ _ ...
+      - ... _ _ _ ...
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_44_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Give the sos signal
+      - "\u041F\u043E\u0434\u0430\u0439\u0442\u0435 \u0441\u0438\u0433\u043D\u0430\u043B
+        \u0441\u043E\u0441 "
+      - "D\xEA o sinal sos"
+      - Geben Sie das sos-Signal
+      - Donne le signal sos
+      - Dai il segnale SOS
+      - "Da la se\xF1al sos"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_44_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Three short, three long and three short
+      - "\u0422\u0440\u0438 \u043A\u043E\u0440\u043E\u0442\u043A\u0438\u0445, \u0442\u0440\u0438
+        \u0434\u043B\u0438\u043D\u043D\u044B\u0445 \u0438 \u0442\u0440\u0438 \u043A\u043E\u0440\u043E\u0442\u043A\u0438\u0445"
+      - "Tr\xEAs curtos, tr\xEAs longos e tr\xEAs curtos"
+      - Drei kurze, drei lange und drei kurze
+      - Trois courts, trois longs et trois courts
+      - Tre brevi, tre lunghi e tre brevi
+      - Tres cortos, tres largos y tres cortos
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_45_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Find the right rectangle
+      - "\u041D\u0430\u0439\u0434\u0438 \u043D\u0443\u0436\u043D\u044B\u0439 \u043F\u0440\u044F\u043C\u043E\u0443\u0433\u043E\u043B\u044C\u043D\u0438\u043A"
+      - "Encontre o ret\xE2ngulo certo"
+      - Finde das richtige Rechteck
+      - Trouvez le bon rectangle
+      - Trova il rettangolo giusto
+      - "Encuentra el rect\xE1ngulo correcto"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_45_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Find the right rectangle
+      - "\u041D\u0430\u0439\u0434\u0438 \u043D\u0443\u0436\u043D\u044B\u0439 \u043F\u0440\u044F\u043C\u043E\u0443\u0433\u043E\u043B\u044C\u043D\u0438\u043A"
+      - "Encontre o ret\xE2ngulo certo"
+      - Finde das richtige Rechteck
+      - Trouvez le bon rectangle
+      - Trova il rettangolo giusto
+      - "Encuentra el rect\xE1ngulo correcto"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_45_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Find the right rectangle
+      - "\u041D\u0430\u0439\u0434\u0438 \u043D\u0443\u0436\u043D\u044B\u0439 \u043F\u0440\u044F\u043C\u043E\u0443\u0433\u043E\u043B\u044C\u043D\u0438\u043A"
+      - "Encontre o ret\xE2ngulo certo"
+      - Finde das richtige Rechteck
+      - Trouvez le bon rectangle
+      - Trova il rettangolo giusto
+      - "Encuentra el rect\xE1ngulo correcto"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_46_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Arrange the wind
+      - "\u0423\u0441\u0442\u0440\u043E\u0439 \u0432\u0435\u0442\u0435\u0440"
+      - Organize o vento
+      - Ordne den Wind
+      - Arrange le vent
+      - Organizza il vento
+      - Organizar el viento
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_46_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Blow on the fan
+      - "\u041F\u043E\u0434\u0443\u0439 \u043D\u0430 \u0432\u0435\u043D\u0442\u0438\u043B\u044F\u0442\u043E\u0440"
+      - Sopro no ventilador
+      - "L\xFCfter aufblasen"
+      - Souffle sur le ventilateur
+      - Soffia sul ventilatore
+      - Sopla en el ventilador
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_46_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Blow into the microphone
+      - "\u0414\u0443\u0439 \u0432 \u043C\u0438\u043A\u0440\u043E\u0444\u043E\u043D"
+      - Sopre no microfone
+      - In das Mikrofon blasen
+      - Soufflez dans le microphone
+      - Soffia nel microfono
+      - "Soplar en el micr\xF3fono"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_47_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Catch the moment
+      - "\u041B\u043E\u0432\u0438 \u043C\u043E\u043C\u0435\u043D\u0442"
+      - Pegue o momento
+      - Fange den Moment
+      - Saisissez le moment
+      - Cogli l'attimo
+      - Captura el momento
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_47_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Fill in the screen
+      - "\u0417\u0430\u043F\u043E\u043B\u043D\u0438 \u044D\u043A\u0440\u0430\u043D"
+      - Preencha a tela
+      - "F\xFCllen Sie den Bildschirm aus"
+      - "Remplissez l'\xE9cran"
+      - Riempi lo schermo
+      - Completa la pantalla
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_47_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Press the button
+      - "\u0416\u043C\u0438 \u043D\u0430 \u043A\u043D\u043E\u043F\u043A\u0443"
+      - "aperte o bot\xE3o"
+      - "Dr\xFCcken Sie den Knopf"
+      - appuie sur le bouton
+      - premi il bottone
+      - "presiona el bot\xF3n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_48_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Clean edges
+      - "\u0420\u043E\u0432\u043D\u044B\u0435 \u043A\u0440\u0430\u044F"
+      - Bordas limpas
+      - Kanten reinigen
+      - Bords propres
+      - Bordi puliti
+      - Bordes limpios
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_48_2
+      TermType: 0
+      Description: 
+      Languages:
+      - The same edges
+      - "\u041E\u0434\u0438\u043D\u0430\u043A\u043E\u0432\u044B\u0435 \u043A\u0440\u0430\u044F"
+      - As mesmas arestas
+      - Die gleichen Kanten
+      - "Les m\xEAmes bords"
+      - Gli stessi bordi
+      - Los mismos bordes
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_48_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Make a square
+      - "\u0421\u0434\u0435\u043B\u0430\u0439 \u043A\u0432\u0430\u0434\u0440\u0430\u0442"
+      - "Fa\xE7a um quadrado"
+      - Mach ein Quadrat
+      - "Faire un carr\xE9"
+      - Crea un quadrato
+      - Hacer un cuadrado
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_49_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Make a flower
+      - "\u0421\u0434\u0435\u043B\u0430\u0439 \u0446\u0432\u0435\u0442\u043E\u043A"
+      - Fazer uma flor
+      - Mach eine Blume
+      - Faire une fleur
+      - Crea un fiore
+      - Hacer una flor
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_49_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the accelerometer
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0430\u043A\u0441\u0435\u043B\u0435\u0440\u043E\u043C\u0435\u0442\u0440"
+      - "Use o aceler\xF4metro"
+      - Verwenden Sie den Beschleunigungsmesser
+      - "Utilisez l'acc\xE9l\xE9rom\xE8tre"
+      - Usa l'accelerometro
+      - "Usa el aceler\xF3metro"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_49_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Shake it
+      - "\u0422\u0440\u044F\u0441\u0438"
+      - Agite
+      - "Sch\xFCttle es"
+      - Secoue le
+      - Scuotilo
+      - Sacudelo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_4_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Unbutton the screen
+      - "\u0420\u0430\u0441\u0441\u0442\u0435\u0433\u043D\u0438 \u044D\u043A\u0440\u0430\u043D"
+      - Desabotoe a tela
+      - "\xD6ffnen Sie den Bildschirm"
+      - "D\xE9boutonner l'\xE9cran"
+      - Sbottonare lo schermo
+      - Desabrocha la pantalla
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_4_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Pull it down
+      - "\u041F\u043E\u0442\u044F\u043D\u0438 \u0432\u043D\u0438\u0437"
+      - Puxe para baixo
+      - Zieh es runter
+      - Tire le vers le bas
+      - "Tiralo gi\xF9"
+      - "J\xE1lalo hacia abajo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_4_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Pull it down to the end
+      - "\u0422\u044F\u043D\u0438 \u0432\u043D\u0438\u0437 \u0434\u043E \u043A\u043E\u043D\u0446\u0430"
+      - "Puxe para baixo at\xE9 o fim"
+      - Ziehen Sie es bis zum Ende nach unten
+      - Tirez-le jusqu'au bout
+      - "Tiralo gi\xF9 fino alla fine"
+      - Tira hacia abajo hasta el final
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_50_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Tilt your phone
+      - "\u041D\u0430\u043A\u043B\u043E\u043D\u0438 \u0442\u0435\u043B\u0435\u0444\u043E\u043D"
+      - Incline seu telefone
+      - Kippen Sie Ihr Telefon
+      - "Inclinez votre t\xE9l\xE9phone"
+      - Inclina il tuo telefono
+      - "Inclinar el tel\xE9fono"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_50_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Start the car
+      - "\u0417\u0430\u0432\u0435\u0434\u0438 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C"
+      - Liga o carro
+      - Starte das Auto
+      - "D\xE9marre la voiture"
+      - Avviare l'auto
+      - Enciende el auto
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_50_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Tilt your phone
+      - "\u041D\u0430\u043A\u043B\u043E\u043D\u0438 \u0442\u0435\u043B\u0435\u0444\u043E\u043D"
+      - Incline seu telefone
+      - Kippen Sie Ihr Telefon
+      - "Inclinez votre t\xE9l\xE9phone"
+      - Inclina il tuo telefono
+      - "Inclinar el tel\xE9fono"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_51_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Victory
+      - Victory
+      - "Vit\xF3ria"
+      - Sieg
+      - La Victoire
+      - Vittoria
+      - Victoria
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_51_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Look at numbers and letters
+      - "\u0421\u043C\u043E\u0442\u0440\u0438 \u043D\u0430 \u0446\u0438\u0444\u0440\u044B
+        \u0438 \u0431\u0443\u043A\u0432\u044B"
+      - "Olhe para n\xFAmeros e letras"
+      - Schauen Sie sich Zahlen und Buchstaben an
+      - Regardez les chiffres et les lettres
+      - Guarda numeri e lettere
+      - "Mira n\xFAmeros y letras"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_51_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Find the sequence
+      - "\u041D\u0430\u0439\u0434\u0438 \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+      - "Encontre a sequ\xEAncia"
+      - Finde die Sequenz
+      - "Trouvez la s\xE9quence"
+      - Trova la sequenza
+      - Encuentra la secuencia
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_52_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0449\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_52_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Fold it up
+      - "\u0421\u043A\u043B\u0430\u0434\u044B\u0432\u0430\u0439"
+      - Dobre-o
+      - Falten Sie es nach oben
+      - Pliez-le
+      - Ripiegalo
+      - Doblarlo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_52_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Money
+      - "\u0414\u0435\u043D\u044C\u0433\u0438"
+      - Dinheiro
+      - Geld
+      - Argent
+      - I Soldi
+      - Dinero
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_53_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Help!!!
+      - "\u041D\u0430 \u043F\u043E\u043C\u043E\u0449\u044C!!!"
+      - Ajuda!!!
+      - Hilfe!!!
+      - Aider!!!
+      - Aiuto!!!
+      - "\xA1\xA1\xA1Ayuda!!!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_53_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Pick up the phone
+      - "\u041F\u043E\u0434\u043D\u0438\u043C\u0438 \u0442\u0440\u0443\u0431\u043A\u0443"
+      - Atenda o telefone
+      - Telefon abheben
+      - "D\xE9crocher le t\xE9l\xE9phone"
+      - Rispondi al telefono
+      - "Coger el tel\xE9fono"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_53_3
+      TermType: 0
+      Description: 
+      Languages:
+      - 911
+      - 911
+      - 911
+      - 911
+      - 911
+      - 911
+      - 911
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_54_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the sequence
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+      - "Use a sequ\xEAncia"
+      - Verwenden Sie die Sequenz
+      - "Utilisez la s\xE9quence"
+      - Usa la sequenza
+      - Usa la secuencia
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_54_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Repeat the checkers
+      - "\u041F\u043E\u0432\u0442\u043E\u0440\u0438 \u0448\u0430\u0448\u0435\u0447\u043A\u0438"
+      - Repita as damas
+      - Wiederholen Sie die Checker
+      - "R\xE9p\xE9tez les v\xE9rificateurs"
+      - Ripeti le pedine
+      - Repite las damas
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_54_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Remove the mint numbers
+      - "\u0423\u0431\u0435\u0440\u0438 \u043C\u044F\u0442\u043D\u044B\u0435 \u0446\u0438\u0444\u0440\u044B"
+      - "Remova os n\xFAmeros da hortel\xE3"
+      - "Entfernen Sie die M\xFCnznummern"
+      - "Supprimer les num\xE9ros de menthe"
+      - Rimuovi i numeri di zecca
+      - "Quita los n\xFAmeros de menta"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_55_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the swipe
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0441\u0432\u0430\u0439\u043F\u044B"
+      - Use o furto
+      - Verwenden Sie den Wisch
+      - Utilisez le balayage
+      - Usa lo swipe
+      - Usa el deslizamiento
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_55_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Don't touch the board
+      - "\u041D\u0435 \u0442\u0440\u043E\u0433\u0430\u0439 \u0434\u043E\u0441\u043A\u0443"
+      - "N\xE3o toque na placa"
+      - "Ber\xFChren Sie nicht das Brett"
+      - Ne touchez pas le tableau
+      - Non toccare il tabellone
+      - No toques el tablero
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_55_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Swipe the screen
+      - "\u0421\u043C\u0430\u0445\u043D\u0438 \u044D\u043A\u0440\u0430\u043D"
+      - Deslize a tela
+      - "Wischen Sie \xFCber den Bildschirm"
+      - "Faites glisser l'\xE9cran"
+      - Fai scorrere il dito sullo schermo
+      - Desliza la pantalla
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_56_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Push it
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Empurre-o
+      - "Dr\xFCck es"
+      - Poussez-le
+      - Spingilo
+      - Empujalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_56_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Press to exit
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439 \u0434\u043B\u044F \u0432\u044B\u0445\u043E\u0434\u0430"
+      - Pressione para sair
+      - "Zum Beenden dr\xFCcken"
+      - Appuyez pour quitter
+      - Premere per uscire
+      - Presione para salir
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_56_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Click on the button
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439 \u043D\u0430 \u043A\u043D\u043E\u043F\u043A\u0438"
+      - "Clique no bot\xE3o"
+      - "Klicken Sie auf die Schaltfl\xE4che"
+      - Cliquez sur le bouton
+      - Fare clic sul pulsante
+      - "Haga clic en el bot\xF3n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_57_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Push it
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Empurre-o
+      - "Dr\xFCck es"
+      - Poussez-le
+      - Spingilo
+      - Empujalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_57_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Find the sequence
+      - "\u041D\u0430\u0439\u0434\u0438 \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+      - "Encontre a sequ\xEAncia"
+      - Finde die Sequenz
+      - "Trouvez la s\xE9quence"
+      - Trova la sequenza
+      - Encuentra la secuencia
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_57_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u0414\u0432\u0438\u0433\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_58_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Pluck it day by day
+      - "\u0421\u0440\u044B\u0432\u0430\u0439 \u0434\u0435\u043D\u044C \u0437\u0430
+        \u0434\u043D\u0435\u043C"
+      - Arranque dia a dia
+      - "Zupfe es Tag f\xFCr Tag"
+      - "Cueillez-le jour apr\xE8s jour"
+      - Raccoglilo giorno dopo giorno
+      - "Arr\xF3jalo d\xEDa a d\xEDa"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_58_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Swipe the calendar
+      - "\u0421\u043C\u0430\u0445\u0438\u0432\u0430\u0439 \u043A\u0430\u043B\u0435\u043D\u0434\u0430\u0440\u044C"
+      - "Deslize o calend\xE1rio"
+      - "Wischen Sie \xFCber den Kalender"
+      - Faites glisser le calendrier
+      - Fai scorrere il calendario
+      - Deslizar el calendario
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_58_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Find the excess
+      - "\u041D\u0430\u0439\u0434\u0438 \u043B\u0438\u0448\u043D\u0435\u0435"
+      - Encontre o excesso
+      - "Finde den \xDCberschuss"
+      - "Trouvez l'exc\xE8s"
+      - Trova l'eccesso
+      - Encuentra el exceso
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_59_1
+      TermType: 0
+      Description: 
+      Languages:
+      - The volcano has woken up
+      - "\u0412\u0443\u043B\u043A\u0430\u043D \u043F\u0440\u043E\u0441\u043D\u0443\u043B\u0441\u044F"
+      - "O vulc\xE3o acordou"
+      - Der Vulkan ist aufgewacht
+      - "Le volcan s'est r\xE9veill\xE9"
+      - "Il vulcano si \xE8 svegliato"
+      - "El volc\xE1n se ha despertado"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_59_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Pour out the lava
+      - "\u0412\u044B\u043B\u0435\u0439 \u043B\u0430\u0432\u0443"
+      - Despeje a lava
+      - "Gie\xDFen Sie die Lava aus"
+      - Versez la lave
+      - Versa la lava
+      - Derrama la lava
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_59_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Flip the screen
+      - "\u041F\u0435\u0440\u0435\u0432\u0435\u0440\u043D\u0438 \u044D\u043A\u0440\u0430\u043D"
+      - Virar a tela
+      - Klappen Sie den Bildschirm um
+      - "Retourner l'\xE9cran"
+      - Capovolgi lo schermo
+      - Voltea la pantalla
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_5_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Make mint circles
+      - "\u0421\u0434\u0435\u043B\u0430\u0439 \u043C\u044F\u0442\u043D\u044B\u0435
+        \u043A\u0440\u0443\u0433\u0438"
+      - "Fa\xE7a c\xEDrculos de hortel\xE3"
+      - Machen Sie Minzkreise
+      - Faire des cercles de menthe
+      - Crea dei cerchi di menta
+      - "Haz c\xEDrculos de menta"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_5_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Combine
+      - " \u0421\u043E\u0432\u043C\u0435\u0449\u0430\u0439"
+      - Combinar
+      - Kombinieren
+      - Combiner
+      - Combinare
+      - Combinar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_5_3
+      TermType: 0
+      Description: 
+      Languages:
+      - 4 to 4, 6 to 6
+      - "4 \u0432 4, 6 \u0432 6"
+      - 4 a 4, 6 a 6
+      - 4 bis 4, 6 bis 6
+      - "4 \xE0 4, 6 \xE0 6"
+      - Da 4 a 4, da 6 a 6
+      - 4 a 4, 6 a 6
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_60_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Shake
+      - "\u0422\u0440\u044F\u0441\u0438"
+      - Mexe
+      - Shake
+      - Secouer
+      - Scuotere
+      - Agitar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_60_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Shake sharply
+      - "\u0422\u0440\u044F\u0441\u0438 \u0440\u0435\u0437\u043A\u043E"
+      - Agite fortemente
+      - "Sch\xFCtteln Sie scharf"
+      - Secouez brusquement
+      - Scuoti bruscamente
+      - Agitar fuertemente
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_60_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the accelerometer
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0430\u043A\u0441\u0435\u043B\u0435\u0440\u043E\u043C\u0435\u0442\u0440"
+      - "Use o aceler\xF4metro"
+      - Verwenden Sie den Beschleunigungsmesser
+      - "Utilisez l'acc\xE9l\xE9rom\xE8tre"
+      - Usa l'accelerometro
+      - "Usa el aceler\xF3metro"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_61_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Activate amulet
+      - "\u0410\u043A\u0442\u0438\u0432\u0438\u0440\u0443\u0439 \u0430\u043C\u0443\u043B\u0435\u0442"
+      - Ativar amuleto
+      - Amulett aktivieren
+      - Activer l'amulette
+      - Attiva l'amuleto
+      - Activar amuleto
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_61_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0449\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_61_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Don't clash
+      - "\u041D\u0435 \u0441\u0442\u0430\u043B\u043A\u0438\u0432\u0430\u0439\u0441\u044F"
+      - "N\xE3o choque"
+      - "Nicht zusammensto\xDFen"
+      - Ne vous heurtez pas
+      - Non scontrarti
+      - No choques
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_62_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Choose
+      - "\u0412\u044B\u0431\u0435\u0440\u0438"
+      - Escolher
+      - "W\xE4hlen"
+      - Choisir
+      - Scegliere
+      - Escoger
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_62_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Scan the cube
+      - "\u0420\u0430\u0437\u0432\u0435\u0440\u0442\u043A\u0430 \u043A\u0443\u0431\u0430"
+      - Digitalize o cubo
+      - "Scannen Sie den W\xFCrfel"
+      - Scannez le cube
+      - Scansiona il cubo
+      - Escanea el cubo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_62_3
+      TermType: 0
+      Description: 
+      Languages:
+      - One is true
+      - "\u041E\u0434\u043D\u0430 \u0432\u0435\u0440\u043D\u0430\u044F"
+      - "Um \xE9 verdade"
+      - Eins ist wahr
+      - L'un est vrai
+      - "Uno \xE8 vero"
+      - Uno es verdad
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_63_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Push it
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Empurre-o
+      - "Dr\xFCck es"
+      - Poussez-le
+      - Spingilo
+      - Empujalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_63_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Enter the phrase
+      - "\u0412\u0432\u0435\u0434\u0438 \u0444\u0440\u0430\u0437\u0443"
+      - Digite a frase
+      - Geben Sie die Phrase ein
+      - Entrez la phrase
+      - Inserisci la frase
+      - Ingrese la frase
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_63_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Name of the game
+      - "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u0438\u0433\u0440\u044B"
+      - Nome do jogo
+      - Name des Spiels
+      - Nom du jeu
+      - Nome del gioco
+      - Nombre del juego
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_64_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u0414\u0432\u0438\u0433\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_64_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Combine
+      - "\u0421\u043E\u0432\u043C\u0435\u0449\u0430\u0439"
+      - Combinar
+      - Kombinieren
+      - Combiner
+      - Combinare
+      - Combinar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_64_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Collect the cube
+      - "\u0421\u043E\u0431\u0435\u0440\u0438 \u043A\u0443\u0431\u0438\u043A"
+      - Recolher o cubo
+      - "Sammle den W\xFCrfel ein"
+      - "R\xE9cup\xE9rez le cube"
+      - Raccogli il cubo
+      - Recoge el cubo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_65_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Find an empty face
+      - "\u041D\u0430\u0439\u0434\u0438 \u043F\u0443\u0441\u0442\u0443\u044E \u0433\u0440\u0430\u043D\u044C"
+      - Encontre um rosto vazio
+      - Finde ein leeres Gesicht
+      - Trouver un visage vide
+      - Trova una faccia vuota
+      - "Encuentra una cara vac\xEDa"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_65_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the gesture
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0436\u0435\u0441\u0442"
+      - Use o gesto
+      - Verwenden Sie die Geste
+      - Utilisez le geste
+      - Usa il gesto
+      - Usa el gesto
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_65_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Swipe away
+      - "\u0421\u043C\u0430\u0445\u0438\u0432\u0430\u0439"
+      - Deslize para longe
+      - Wischen Sie weg
+      - Glissez loin
+      - Scorri via
+      - Deslizar lejos
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_66_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Get teeth out
+      - "\u0412\u044B\u0442\u0430\u0449\u0438 \u0437\u0443\u0431\u044B"
+      - Arrancar os dentes
+      - "Z\xE4hne raus"
+      - Sortez les dents
+      - Tira fuori i denti
+      - Sacar los dientes
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_66_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Pull out the right ones
+      - "\u0412\u044B\u0442\u0430\u0449\u0438 \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u044B\u0435"
+      - Retire os corretos
+      - Ziehen Sie die richtigen heraus
+      - Tirez les bons
+      - Tira fuori quelli giusti
+      - Saca los correctos
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_66_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Incisors are first
+      - "\u0420\u0435\u0437\u0446\u044B - \u043F\u0435\u0440\u0432\u044B\u0435 \u043F\u043E
+        \u043D\u043E\u043C\u0435\u0440\u0443"
+      - "Incisivos s\xE3o os primeiros"
+      - "Schneidez\xE4hne stehen an erster Stelle"
+      - "Les incisives sont les premi\xE8res"
+      - Gli incisivi sono i primi
+      - Los incisivos son lo primero
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_67_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Push it
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Empurre-o
+      - "Dr\xFCck es"
+      - Poussez-le
+      - Spingilo
+      - Empujalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_67_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u0414\u0432\u0438\u0433\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_67_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Spin it
+      - "\u0412\u0440\u0430\u0449\u0430\u0439"
+      - Girar
+      - Dreh es
+      - Faites tourner
+      - Gira
+      - "G\xEDralo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_68_1
+      TermType: 0
+      Description: 
+      Languages:
+      - The dog wants to eat
+      - "\u0421\u043E\u0431\u0430\u043A\u0430 \u0445\u043E\u0447\u0435\u0442 \u0435\u0441\u0442\u044C"
+      - O cachorro quer comer
+      - Der Hund will essen
+      - Le chien veut manger
+      - Il cane vuole mangiare
+      - El perro quiere comer
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_68_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Feed the dog
+      - "\u041D\u0430\u043A\u043E\u0440\u043C\u0438 \u0441\u043E\u0431\u0430\u043A\u0443"
+      - Alimentar o cachorro
+      - "Den Hund f\xFCttern"
+      - Nourrir le chien
+      - Dai da mangiare al cane
+      - Alimenta al perro
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_68_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Feed her until she's sick
+      - "\u041A\u043E\u0440\u043C\u0438, \u043F\u043E\u043A\u0430 \u0435\u0435 \u043D\u0435
+        \u0441\u0442\u043E\u0448\u043D\u0438\u0442"
+      - "Alimente-a at\xE9 ela ficar doente"
+      - "F\xFCttere sie, bis sie krank ist"
+      - "Nourris-la jusqu'\xE0 ce qu'elle soit malade"
+      - "Nutrila finch\xE9 non si ammala"
+      - "Alim\xE9ntala hasta que est\xE9 enferma"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_69_1
+      TermType: 0
+      Description: 
+      Languages:
+      - COVID-19
+      - COVID-19
+      - Covid-19
+      - Covid-19
+      - COVID-19 [Feminine
+      - Covid-19
+      - COVID-19
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_69_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Infect a person
+      - "\u0417\u0430\u0440\u0430\u0437\u0438 \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u0430"
+      - Infectar uma pessoa
+      - Infizieren Sie eine Person
+      - Infecter une personne
+      - Infetta una persona
+      - Infectar a una persona
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_69_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Take off the mask
+      - "\u0421\u043D\u0438\u043C\u0438 \u043C\u0430\u0441\u043A\u0443"
+      - "Tire a m\xE1scara"
+      - Nehmen Sie die Maske ab
+      - Enlevez le masque
+      - Togliti la maschera
+      - "Qu\xEDtate la m\xE1scara"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_6_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Push it
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Empurre-o
+      - "Dr\xFCck es"
+      - Poussez-le
+      - Spingilo
+      - Empujalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_6_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Spin it
+      - "\u0412\u0440\u0430\u0449\u0430\u0439"
+      - Girar
+      - Dreh es
+      - Faites tourner
+      - Gira
+      - "G\xEDralo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_6_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Combine it
+      - "\u0421\u043E\u0432\u043C\u0435\u0449\u0430\u0439"
+      - Combine
+      - Kombiniere es
+      - Combinez-le
+      - Combinalo
+      - Combinarlo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_70_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u0414\u0432\u0438\u0433\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_70_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the accelerometer
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0430\u043A\u0441\u0435\u043B\u0435\u0440\u043E\u043C\u0435\u0442\u0440"
+      - "Use o aceler\xF4metro"
+      - Verwenden Sie den Beschleunigungsmesser
+      - "Utilisez l'acc\xE9l\xE9rom\xE8tre"
+      - Usa l'accelerometro
+      - "Usa el aceler\xF3metro"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_70_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Take it off the screen
+      - "\u0412\u044B\u0432\u0435\u0434\u0438 \u0437\u0430 \u044D\u043A\u0440\u0430\u043D"
+      - Tirar da tela
+      - Nehmen Sie es vom Bildschirm
+      - "Enlevez-le de l'\xE9cran"
+      - Toglilo dallo schermo
+      - "S\xE1calo de la pantalla"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_71_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Reach the finish line
+      - "\u0414\u043E\u0439\u0434\u0438 \u0434\u043E \u0444\u0438\u043D\u0438\u0448\u0430"
+      - Alcance a linha de chegada
+      - Erreichen Sie die Ziellinie
+      - "Atteignez la ligne d'arriv\xE9e"
+      - Raggiungi il traguardo
+      - Llegar a la meta
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_71_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Don't go into the maze
+      - "\u041D\u0435 \u0437\u0430\u0445\u043E\u0434\u0438 \u0432 \u043B\u0430\u0431\u0438\u0440\u0438\u043D\u0442"
+      - "N\xE3o entre no labirinto"
+      - Geh nicht ins Labyrinth
+      - N'entre pas dans le labyrinthe
+      - Non entrare nel labirinto
+      - No entres en el laberinto
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_71_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Go around the maze
+      - "\u041E\u0431\u043E\u0439\u0434\u0438 \u043B\u0430\u0431\u0438\u0440\u0438\u043D\u0442"
+      - Contorne o labirinto
+      - Geh um das Labyrinth herum
+      - Faire le tour du labyrinthe
+      - Vai in giro per il labirinto
+      - Dar la vuelta al laberinto
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_72_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0449\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_72_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Put in the gears
+      - "\u0412\u0441\u0442\u0430\u0432\u044C \u0448\u0435\u0441\u0442\u0435\u0440\u0435\u043D\u043A\u0438"
+      - Coloque as engrenagens
+      - "Legen Sie die G\xE4nge ein"
+      - Mettez les engrenages
+      - Metti gli ingranaggi
+      - Pon los engranajes
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_72_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Each has its own place
+      - "\u0423 \u043A\u0430\u0436\u0434\u043E\u0439 \u0441\u0432\u043E\u0435 \u043C\u0435\u0441\u0442\u043E"
+      - "Cada um tem seu pr\xF3prio lugar"
+      - Jeder hat seinen eigenen Platz
+      - Chacun a sa place
+      - Ognuno ha il suo posto
+      - Cada uno tiene su propio lugar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_73_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Push it
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Empurre-o
+      - "Dr\xFCck es"
+      - Poussez-le
+      - Spingilo
+      - Empujalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_73_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Find the pairs
+      - "\u041D\u0430\u0439\u0434\u0438 \u043F\u0430\u0440\u044B"
+      - Encontre os pares
+      - Finde die Paare
+      - Trouve les paires
+      - Trova le coppie
+      - Encuentra las parejas
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_73_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Mirrored
+      - "\u041E\u0442\u0437\u0435\u0440\u043A\u0430\u043B\u0435\u043D\u043E"
+      - Espelhado
+      - Gespiegelt
+      - En Miroir
+      - Rispecchiato
+      - Reflejado
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_74_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Turn on light
+      - "\u0412\u043A\u043B\u044E\u0447\u0438 \u0441\u0432\u0435\u0442"
+      - Acender luz
+      - Mach das Licht an
+      - "Allume la lumi\xE8re"
+      - Accendi la luce
+      - Enciende la luz
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_74_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Push it
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Empurre-o
+      - "Dr\xFCck es"
+      - Poussez-le
+      - Spingilo
+      - Empujalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_74_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Find the sequence
+      - "\u041D\u0430\u0439\u0434\u0438 \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+      - "Encontre a sequ\xEAncia"
+      - Finde die Sequenz
+      - "Trouvez la s\xE9quence"
+      - Trova la sequenza
+      - Encuentra la secuencia
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_75_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Draw a ring
+      - "\u041D\u0430\u0440\u0438\u0441\u0443\u0439 \u043A\u043E\u043B\u044C\u0446\u043E"
+      - Desenhe um anel
+      - Zeichne einen Ring
+      - Dessine un anneau
+      - Disegna un anello
+      - Dibuja un anillo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_75_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the gyroscope
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0433\u0438\u0440\u043E\u0441\u043A\u043E\u043F"
+      - "Use o girosc\xF3pio"
+      - Verwenden Sie das Gyroskop
+      - Utilisez le gyroscope
+      - Usa il giroscopio
+      - Usa el giroscopio
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_75_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the gesture
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0436\u0435\u0441\u0442\u044B"
+      - Use o gesto
+      - Verwenden Sie die Geste
+      - Utilisez le geste
+      - Usa il gesto
+      - Usa el gesto
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_76_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Push it
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Empurre-o
+      - "Dr\xFCck es"
+      - Poussez-le
+      - Spingilo
+      - Empujalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_76_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Find the sequence
+      - "\u041D\u0430\u0439\u0434\u0438 \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+      - "Encontre a sequ\xEAncia"
+      - Finde die Sequenz
+      - "Trouvez la s\xE9quence"
+      - Trova la sequenza
+      - Encuentra la secuencia
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_76_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Click in the correct order
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439 \u0432 \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u043E\u043C
+        \u043F\u043E\u0440\u044F\u0434\u043A\u0435"
+      - Clique na ordem correta
+      - Klicken Sie in der richtigen Reihenfolge
+      - Cliquez dans le bon ordre
+      - Fare clic nell'ordine corretto
+      - Haga clic en el orden correcto
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_77_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Control the ball
+      - "\u0423\u043F\u0440\u0430\u0432\u043B\u044F\u0439 \u043C\u044F\u0447\u043E\u043C"
+      - Controlar a bola
+      - Kontrolliere den Ball
+      - "Contr\xF4lez le ballon"
+      - Controlla la palla
+      - Controlar la pelota
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_77_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Move the arrows
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0441\u0442\u0438 \u0441\u0442\u0440\u0435\u043B\u043A\u0438"
+      - Mova as setas
+      - Bewegen Sie die Pfeile
+      - "D\xE9placez les fl\xE8ches"
+      - Sposta le frecce
+      - Mueve las flechas
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_77_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Use gamepad
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0433\u0435\u0439\u043C\u043F\u0430\u0434"
+      - Use gamepad
+      - Verwenden Sie das Gamepad
+      - Utiliser la manette de jeu
+      - Usa il gamepad
+      - Usar gamepad
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_78_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u0414\u0432\u0438\u0433\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_78_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Repeat
+      - "\u041F\u043E\u0432\u0442\u043E\u0440\u0438"
+      - Repita
+      - Wiederholen
+      - "R\xE9p\xE9ter"
+      - Ripetere
+      - Repetir
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_78_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Repeat hesitation
+      - "\u041F\u043E\u0432\u0442\u043E\u0440\u0438 \u043A\u043E\u043B\u0435\u0431\u0430\u043D\u0438\u044F"
+      - "Repita a hesita\xE7\xE3o"
+      - "Wiederholen Sie das Z\xF6gern"
+      - "R\xE9p\xE9tez l'h\xE9sitation"
+      - Ripeti l'esitazione
+      - "Repite la vacilaci\xF3n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_79_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move the hole
+      - "\u041F\u0435\u0440\u0435\u0434\u0432\u0438\u043D\u044C \u043B\u0443\u043D\u043A\u0443"
+      - Mova o buraco
+      - Bewegen Sie das Loch
+      - "D\xE9placez le trou"
+      - Sposta il buco
+      - Mover el agujero
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_79_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Use physics
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0444\u0438\u0437\u0438\u043A\u0443"
+      - "Use f\xEDsica"
+      - Verwenden Sie Physik
+      - Utilisez la physique
+      - Usa la fisica
+      - "Usa la f\xEDsica"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_79_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Corral the balls
+      - "\u0417\u0430\u0433\u043E\u043D\u0438 \u0448\u0430\u0440\u044B"
+      - Cercar as bolas
+      - "Korraliere die B\xE4lle"
+      - Corral les boules
+      - Corral le palle
+      - Acorralar las bolas
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_7_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Look for the order
+      - "\u0418\u0449\u0438 \u043F\u043E\u0440\u044F\u0434\u043E\u043A"
+      - Procure o pedido
+      - Suchen Sie nach der Bestellung
+      - Recherchez la commande
+      - Cerca l'ordine
+      - Busca el orden
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_7_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Count
+      - "\u0421\u0447\u0438\u0442\u0430\u0439"
+      - Contagem
+      - Anzahl
+      - Compter
+      - Contare
+      - Contar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_7_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Count and click
+      - "\u0421\u0447\u0438\u0442\u0430\u0439 \u0438 \u043D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Conte e clique
+      - "Z\xE4hlen und klicken"
+      - Comptez et cliquez
+      - Conta e clicca
+      - Cuenta y haz clic
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_80_1
+      TermType: 0
+      Description: 
+      Languages:
+      - It's already night!
+      - "\u0423\u0436\u0435 \u043D\u043E\u0447\u044C!"
+      - "J\xE1 \xE9 noite!"
+      - Es ist schon Nacht!
+      - "C'est d\xE9j\xE0 la nuit!"
+      - "\xC8 gi\xE0 notte!"
+      - "\xA1Ya es de noche!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_80_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Time to sleep
+      - "\u041F\u043E\u0440\u0430 \u0441\u043F\u0430\u0442\u044C"
+      - Hora de dormir
+      - Zeit zu schlafen
+      - L'heure de dormir
+      - Momento di dormire
+      - Hora de dormir
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_80_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Lock the smartphone
+      - "\u0417\u0430\u0431\u043B\u043E\u043A\u0438\u0440\u0443\u0439 \u0441\u043C\u0430\u0440\u0442\u0444\u043E\u043D"
+      - Trave o smartphone
+      - Sperren Sie das Smartphone
+      - Verrouiller le smartphone
+      - Blocca lo smartphone
+      - "Bloquear el tel\xE9fono inteligente"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_81_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u0414\u0432\u0438\u0433\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_81_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Combine
+      - "\u0421\u043E\u0432\u043C\u0435\u0449\u0430\u0439"
+      - Combinar
+      - Kombinieren
+      - Combiner
+      - Combinare
+      - Combinar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_81_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Count and get 5
+      - "\u0421\u0447\u0438\u0442\u0430\u0439 \u0438 \u043F\u043E\u043B\u0443\u0447\u0438
+        5"
+      - Conte e obtenha 5
+      - "Z\xE4hle und erhalte 5"
+      - Comptez et obtenez 5
+      - Conta e ottieni 5
+      - "Cuenta y obt\xE9n 5"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_82_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Push it
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Empurre-o
+      - "Dr\xFCck es"
+      - Poussez-le
+      - Spingilo
+      - Empujalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_82_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Fill center circle
+      - "\u0417\u0430\u043F\u043E\u043B\u043D\u0438 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439
+        \u043A\u0440\u0443\u0433"
+      - "Preencher o c\xEDrculo central"
+      - "F\xFCllen Sie den mittleren Kreis"
+      - Remplir le cercle central
+      - Riempi il cerchio centrale
+      - "Rellenar c\xEDrculo central"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_82_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Look at directions
+      - "\u0421\u043C\u043E\u0442\u0440\u0438 \u043D\u0430 \u043D\u0430\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F"
+      - "Veja as dire\xE7\xF5es"
+      - Schauen Sie sich die Anweisungen an
+      - Regardez les directions
+      - Guarda le indicazioni
+      - Mira las direcciones
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_83_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0449\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_83_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Move the pointer
+      - "\u0414\u0432\u0438\u0433\u0430\u0439 \u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C"
+      - Mova o ponteiro
+      - Bewegen Sie den Zeiger
+      - "D\xE9placer le pointeur"
+      - Spostare il puntatore
+      - Mover el puntero
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_83_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Move to 7
+      - "\u0414\u0432\u0438\u0433\u0430\u0439 \u043D\u0430 7"
+      - Mova para 7
+      - Gehen Sie zu 7
+      - "D\xE9placer vers 7"
+      - Passa a 7
+      - Mover a 7
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_84_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Enter the code
+      - "\u0412\u0432\u0435\u0434\u0438 \u043A\u043E\u0434"
+      - "Digite o c\xF3digo"
+      - Gib den code ein
+      - Entrer le code
+      - Inserisci il codice
+      - "Inserte el c\xF3digo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_84_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Look closely at the line
+      - "\u041F\u0440\u0438\u0441\u043C\u043E\u0442\u0440\u0438\u0441\u044C \u043A
+        \u043B\u0438\u043D\u0438\u044F\u043C"
+      - Olhe atentamente para a linha
+      - Schauen Sie sich die Linie genau an
+      - Regardez attentivement la ligne
+      - Guarda attentamente la linea
+      - "Mira de cerca la l\xEDnea"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_84_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Look at the thin lines
+      - "\u0421\u043C\u043E\u0442\u0440\u0438 \u043D\u0430 \u0442\u043E\u043D\u043A\u0438\u0435
+        \u043B\u0438\u043D\u0438\u0438"
+      - Olhe para as linhas finas
+      - "Schau dir die d\xFCnnen Linien an"
+      - Regardez les fines lignes
+      - Guarda le linee sottili
+      - "Mira las l\xEDneas finas"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_85_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Pick up
+      - "\u041F\u043E\u0434\u0431\u0435\u0440\u0438"
+      - Pegar
+      - Abholen
+      - Ramasser
+      - Raccogliere
+      - Recoger
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_85_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Pick up items
+      - "\u041F\u043E\u0434\u0431\u0435\u0440\u0438 \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u044B"
+      - Pegar itens
+      - "Gegenst\xE4nde abholen"
+      - Ramasser des articles
+      - Raccogli gli oggetti
+      - "Recoger art\xEDculos"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_85_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Assemble the drawing on the key
+      - "\u0421\u043E\u0431\u0435\u0440\u0438 \u0440\u0438\u0441\u0443\u043D\u043E\u043A
+        \u043D\u0430 \u043A\u043B\u044E\u0447\u0435"
+      - Monte o desenho na chave
+      - "Montieren Sie die Zeichnung auf dem Schl\xFCssel"
+      - "Assemblez le dessin sur la cl\xE9"
+      - Montare il disegno sulla chiave
+      - Montar el dibujo en la llave
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_86_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Twist the lock
+      - "\u041A\u0440\u0443\u0442\u0438 \u0437\u0430\u043C\u043E\u043A"
+      - "Tor\xE7a a fechadura"
+      - Drehen Sie das Schloss
+      - Tournez la serrure
+      - Gira la serratura
+      - Gire la cerradura
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_86_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Push it
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Empurre-o
+      - "Dr\xFCck es"
+      - Poussez-le
+      - Spingilo
+      - Empujalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_86_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Open the safe
+      - "\u041E\u0442\u043A\u0440\u043E\u0439 \u0441\u0435\u0439\u0444"
+      - Abrir o cofre
+      - "\xD6ffne den Tresor"
+      - Ouvre le coffre-fort
+      - Apri la cassaforte
+      - Abre la caja fuerte
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_87_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Grab it
+      - "\u0421\u0445\u0432\u0430\u0442\u0438"
+      - Pegue isso
+      - Nimm es
+      - Attrape le
+      - Prendilo
+      - Agarrarlo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_87_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0441\u0442\u0438"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_87_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it to the exit
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0441\u0442\u0438 \u043A \u0432\u044B\u0445\u043E\u0434\u0443"
+      - "Mova-o para a sa\xEDda"
+      - Bewegen Sie es zum Ausgang
+      - "D\xE9placez-le vers la sortie"
+      - Spostalo all'uscita
+      - Moverlo a la salida
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_88_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Control the ball
+      - "\u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0439 \u043C\u044F\u0447"
+      - Controlar a bola
+      - Kontrolliere den Ball
+      - "Contr\xF4lez le ballon"
+      - Controlla la palla
+      - Controlar la pelota
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_88_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the accelerometer
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0430\u043A\u0441\u0435\u043B\u0435\u0440\u043E\u043C\u0435\u0442\u0440"
+      - "Use o aceler\xF4metro"
+      - Verwenden Sie den Beschleunigungsmesser
+      - "Utilisez l'acc\xE9l\xE9rom\xE8tre"
+      - Usa l'accelerometro
+      - "Usa el aceler\xF3metro"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_88_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Drop the ball
+      - "\u0421\u0431\u0440\u043E\u0441\u044C \u043C\u044F\u0447"
+      - Soltar a bola
+      - Lass den Ball fallen
+      - "L\xE2che la balle"
+      - Far cadere la palla
+      - Dejar caer la bola
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_89_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Spin it
+      - "\u0412\u0440\u0430\u0449\u0430\u0439"
+      - Girar
+      - Dreh es
+      - Faites tourner
+      - Gira
+      - "G\xEDralo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_89_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0449\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_89_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Restore
+      - "\u0412\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u0438"
+      - Restaurar
+      - Wiederherstellen
+      - Restaurer
+      - Ristabilire
+      - Restaurar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_8_1
+      TermType: 0
+      Description: 
+      Languages:
+      - The cat wants to eat
+      - "\u041A\u043E\u0442 \u0445\u043E\u0447\u0435\u0442 \u0435\u0441\u0442\u044C"
+      - O gato quer comer
+      - Die Katze will essen
+      - Le chat veut manger
+      - Il gatto vuole mangiare
+      - El gato quiere comer
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_8_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Feed the cat
+      - "\u041D\u0430\u043A\u043E\u0440\u043C\u0438 \u043A\u043E\u0442\u0430"
+      - Alimente o gato
+      - "Die Katze f\xFCttern"
+      - Nourrir le chat
+      - Dar da mangiare al gatto
+      - Alimenta al gato
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_8_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Move the cat to the bowl
+      - "\u041F\u043E\u0434\u0432\u0438\u043D\u044C \u043A\u043E\u0442\u0430 \u043A
+        \u043C\u0438\u0441\u043A\u0435"
+      - Mova o gato para a tigela
+      - "Bewegen Sie die Katze in die Sch\xFCssel"
+      - "D\xE9placez le chat dans le bol"
+      - Sposta il gatto nella ciotola
+      - Mueve el gato al cuenco
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_90_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Repeat the glow of inner ring
+      - "\u041F\u043E\u0432\u0442\u043E\u0440\u0438 \u0441\u0432\u0435\u0447\u0435\u043D\u0438\u0435
+        \u0432\u043D\u0443\u0442\u0440\u0435\u043D\u043D\u0435\u0433\u043E \u043A\u043E\u043B\u044C\u0446\u0430"
+      - Repita o brilho do anel interno
+      - Wiederholen Sie das Leuchten des Innenrings
+      - "R\xE9p\xE9tez la lueur de la bague int\xE9rieure"
+      - "Ripeti il \u200B\u200Bbagliore dell'anello interno"
+      - Repite el resplandor del anillo interior
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_90_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Seize the moment
+      - "\u041B\u043E\u0432\u0438 \u043C\u043E\u043C\u0435\u043D\u0442"
+      - Aproveite o momento
+      - Nutze den Augenblick
+      - Saisir l'instant
+      - Cogli l'attimo
+      - Aprovechar el momento
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_90_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Push it
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Empurre-o
+      - "Dr\xFCck es"
+      - Poussez-le
+      - Spingilo
+      - Empujalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_91_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move the car
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0441\u0442\u0438 \u043C\u0430\u0448\u0438\u043D\u0443"
+      - Mova o carro
+      - Bewegen Sie das Auto
+      - "D\xE9placez la voiture"
+      - Muovi la macchina
+      - Mover el coche
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_91_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Flip the screen
+      - "\u041F\u0435\u0440\u0435\u0432\u0435\u0440\u043D\u0438 \u044D\u043A\u0440\u0430\u043D"
+      - Virar a tela
+      - Klappen Sie den Bildschirm um
+      - "Retourner l'\xE9cran"
+      - Capovolgi lo schermo
+      - Voltea la pantalla
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_91_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Push it
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Empurre-o
+      - "Dr\xFCck es"
+      - Poussez-le
+      - Spingilo
+      - Empujalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_92_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0449\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_92_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Combine
+      - "\u0421\u043E\u0432\u043C\u0435\u0449\u0430\u0439"
+      - Combinar
+      - Kombinieren
+      - Combiner
+      - Combinare
+      - Combinar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_92_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Pick up the key
+      - "\u041F\u043E\u0434\u0431\u0435\u0440\u0438 \u043A\u043B\u044E\u0447"
+      - Pegue a chave
+      - "Nimm den Schl\xFCssel"
+      - "Ramassez la cl\xE9"
+      - Prendi la chiave
+      - Coge la llave
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_93_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Expand it
+      - "\u0420\u0430\u0437\u0432\u0435\u0440\u043D\u0438"
+      - Expanda-o
+      - Es ausweiten
+      - "D\xE9veloppez-le"
+      - Espandilo
+      - Expandelo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_93_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Open the shutter
+      - "\u041E\u0442\u043A\u0440\u043E\u0439 \u0437\u0430\u0442\u0432\u043E\u0440"
+      - Abra o obturador
+      - "\xD6ffnen Sie den Verschluss"
+      - Ouvrez le volet
+      - Apri l'otturatore
+      - Abre el obturador
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_93_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Make a photo
+      - "\u0421\u0434\u0435\u043B\u0430\u0439 \u0441\u043D\u0438\u043C\u043E\u043A"
+      - Tirar uma foto
+      - Mach ein Foto
+      - Prendre une photo
+      - Fare una foto
+      - Hacer una foto
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_94_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0449\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_94_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Catch them
+      - "\u041B\u043E\u0432\u0438"
+      - Pegue-os
+      - Fang sie
+      - Attrape-les
+      - Prendili
+      - "Atr\xE1palos"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_94_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Catch the drops in the toilet
+      - "\u041B\u043E\u0432\u0438 \u043A\u0430\u043F\u043B\u0438 \u0432 \u0443\u043D\u0438\u0442\u0430\u0437"
+      - Pegue as gotas no banheiro
+      - Fangen Sie die Tropfen in der Toilette
+      - Attrape les gouttes dans les toilettes
+      - Raccogli le gocce nel water
+      - Atrapa las gotas en el inodoro
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_95_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Move it
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0449\u0430\u0439"
+      - Mova isso
+      - Bewege es
+      - "D\xE9placez-le"
+      - Spostalo
+      - "Mu\xE9velo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_95_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Spray it
+      - "\u0420\u0430\u0441\u043F\u044B\u043B\u044F\u0439"
+      - Pulverizar
+      - "Spr\xFChen Sie es"
+      - Vaporisez-le
+      - Spruzzalo
+      - "Roc\xEDalo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_95_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Spray in both directions
+      - "\u0420\u0430\u0441\u043F\u044B\u043B\u044F\u0439 \u0432 \u043E\u0431\u0435
+        \u0441\u0442\u043E\u0440\u043E\u043D\u044B"
+      - "Pulverizar em ambas as dire\xE7\xF5es"
+      - "In beide Richtungen spr\xFChen"
+      - "Pulv\xE9riser dans les deux sens"
+      - Spruzzare in entrambe le direzioni
+      - Pulverizar en ambas direcciones
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_96_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Count it
+      - "\u0421\u0447\u0438\u0442\u0430\u0439"
+      - Conte isso
+      - "Z\xE4hle es"
+      - Compte le
+      - Contalo
+      - "Cu\xE9ntalo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_96_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Count the squares
+      - "\u0421\u0447\u0438\u0442\u0430\u0439 \u043A\u0432\u0430\u0434\u0440\u0430\u0442\u044B"
+      - Conte os quadrados
+      - "Z\xE4hle die Quadrate"
+      - "Comptez les carr\xE9s"
+      - Conta i quadrati
+      - Cuenta los cuadrados
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_96_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the keyboard
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u043A\u043B\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u0443"
+      - Use o teclado
+      - Verwenden Sie die Tastatur
+      - Utilisez le clavier
+      - Usa la tastiera
+      - Usar el teclado
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_97_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Load the clip
+      - "\u0417\u0430\u0440\u044F\u0434\u0438 \u043E\u0431\u043E\u0439\u043C\u0443"
+      - Carregue o clipe
+      - Laden Sie den Clip
+      - Chargez le clip
+      - Carica la clip
+      - Carga el clip
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_97_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Shoot
+      - "\u0421\u0442\u0440\u0435\u043B\u044F\u0439"
+      - Atirar
+      - "Schie\xDFen"
+      - Tirer
+      - Sparare
+      - Disparar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_97_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Shoot the fly
+      - "\u0421\u0442\u0440\u0435\u043B\u044F\u0439 \u0432 \u043C\u0443\u0445\u0443"
+      - Atire na mosca
+      - "Schie\xDFe auf die Fliege"
+      - Tirez sur la mouche
+      - Spara al volo
+      - Dispara la mosca
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_98_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Push it
+      - "\u041D\u0430\u0436\u0438\u043C\u0430\u0439"
+      - Empurre-o
+      - "Dr\xFCck es"
+      - Poussez-le
+      - Spingilo
+      - Empujalo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_98_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Find the sequence
+      - "\u041D\u0430\u0439\u0434\u0438 \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+      - "Encontre a sequ\xEAncia"
+      - Finde die Sequenz
+      - "Trouvez la s\xE9quence"
+      - Trova la sequenza
+      - Encuentra la secuencia
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_98_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Turn
+      - "\u041F\u0435\u0440\u0435\u0432\u0435\u0440\u043D\u0438"
+      - Vez
+      - Wende
+      - Tourner
+      - Girare
+      - Vuelta
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_99_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Get a combination
+      - "\u041F\u043E\u043B\u0443\u0447\u0438 \u043A\u043E\u043C\u0431\u0438\u043D\u0430\u0446\u0438\u044E"
+      - "Obtenha uma combina\xE7\xE3o"
+      - Holen Sie sich eine Kombination
+      - Obtenez une combinaison
+      - Ottieni una combinazione
+      - "Consiga una combinaci\xF3n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_99_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Use the gesture
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439 \u0436\u0435\u0441\u0442"
+      - Use o gesto
+      - Verwenden Sie die Geste
+      - Utilisez le geste
+      - Usa il gesto
+      - Usa el gesto
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_99_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Move the circle
+      - "\u041F\u0435\u0440\u0435\u043C\u0435\u0441\u0442\u0438 \u043A\u0440\u0443\u0433"
+      - "Mova o c\xEDrculo"
+      - Bewegen Sie den Kreis
+      - "D\xE9placer le cercle"
+      - Sposta il cerchio
+      - "Mover el c\xEDrculo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_9_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Look for black 6
+      - "\u0418\u0449\u0438 \u0447\u0451\u0440\u043D\u0443\u044E 6"
+      - Procure preto 6
+      - Suchen Sie nach schwarz 6
+      - Cherchez le noir 6
+      - Cerca il nero 6
+      - Busque negro 6
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_9_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Flip the screen
+      - "\u041F\u0435\u0440\u0435\u0432\u0435\u0440\u043D\u0438 \u044D\u043A\u0440\u0430\u043D"
+      - Virar a tela
+      - Klappen Sie den Bildschirm um
+      - "Retourner l'\xE9cran"
+      - Capovolgi lo schermo
+      - Voltea la pantalla
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVELS_TINTS_LEVEL_9_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Flip and tap
+      - "\u041F\u0435\u0440\u0435\u0432\u0435\u0440\u043D\u0438 \u0438 \u043D\u0430\u0436\u043C\u0438"
+      - Vire e toque
+      - Drehen und tippen
+      - Retourner et toucher
+      - Capovolgi e tocca
+      - Voltear y tocar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVEL_PROMTS_HEADER
+      TermType: 0
+      Description: 
+      Languages:
+      - Hints
+      - "\u041F\u043E\u0434\u0441\u043A\u0430\u0437\u043A\u0438"
+      - Dicas
+      - Hinweise
+      - Astuces
+      - Suggerimenti
+      - Pistas
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Nina
+      TermType: 0
+      Description: 
+      Languages:
+      - Where is Nina?
+      - "\u0413\u0434\u0435 \u041D\u0438\u043D\u0430?"
+      - "Onde est\xE1 Nina?"
+      - Wo ist Nina?
+      - "O\xF9 est Nina?"
+      - "Dov'\xE8 Nina?"
+      - "\xBFD\xF3nde est\xE1 Nina?"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: START_MAZE
+      TermType: 0
+      Description: 
+      Languages:
+      - Start
+      - "\u0421\u0442\u0430\u0440\u0442"
+      - "Come\xE7ar"
+      - Start
+      - "D\xE9but"
+      - Inizio
+      - Comienzo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: WAY_OUT
+      TermType: 0
+      Description: 
+      Languages:
+      - Find a way out
+      - "\u041D\u0430\u0439\u0434\u0438 \u0432\u044B\u0445\u043E\u0434"
+      - "Encontre uma sa\xEDda"
+      - Finde einen Ausweg
+      - Trouvez une issue
+      - Trova una via d'uscita
+      - Encontrar una salida
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: coming soon
+      TermType: 0
+      Description: 
+      Languages:
+      - Coming soon...
+      - "\u0421\u043A\u043E\u0440\u043E..."
+      - Em breve...
+      - Kommt bald...
+      - "Bient\xF4t disponible..."
+      - Prossimamente...
+      - "Pr\xF3ximamente..."
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: level_text_autumn
+      TermType: 0
+      Description: 
+      Languages:
+      - Autumn
+      - "\u041E\u0441\u0435\u043D\u044C"
+      - Outono
+      - Herbst
+      - L'automne
+      - Autunno
+      - "Oto\xF1o"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: level_text_find_another_ball
+      TermType: 0
+      Description: 
+      Languages:
+      - Find another ball
+      - "\u041D\u0430\u0439\u0434\u0438 \u0434\u0440\u0443\u0433\u043E\u0439 \u043C\u044F\u0447"
+      - Encontre outra bola
+      - Finde einen anderen Ball
+      - Trouver une autre balle
+      - Trova un'altra palla
+      - Encuentra otra bola
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: level_text_press_button_six
+      TermType: 0
+      Description: 
+      Languages:
+      - Press button six
+      - "\u041D\u0430\u0436\u043C\u0438 \u043A\u043D\u043E\u043F\u043A\u0443 6"
+      - "Pressione o bot\xE3o seis"
+      - "Dr\xFCcken Sie die Taste sechs"
+      - Appuyez sur le bouton six
+      - Premere il pulsante sei
+      - "Presione el bot\xF3n seis"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: level_text_turn_on_wifi
+      TermType: 0
+      Description: 
+      Languages:
+      - Turn on WI-FI
+      - Turn on WI-FI
+      - Ligue WI-FI
+      - Schalten Sie WI-FI ein
+      - Activez le WI-FI
+      - Attiva il Wi-Fi
+      - Encienda WI-FI
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: level_text_wake_up_bat
+      TermType: 0
+      Description: 
+      Languages:
+      - Wake up the bat
+      - "\u0420\u0430\u0437\u0431\u0443\u0434\u0438 \u043C\u044B\u0448\u044C"
+      - Acorde o morcego
+      - Weck die Fledermaus auf
+      - "R\xE9veillez la chauve-souris"
+      - Sveglia la mazza
+      - "Despierta el murci\xE9lago"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: level_text_where_is_the_sun
+      TermType: 0
+      Description: 
+      Languages:
+      - Where is the sun?
+      - "\u0413\u0434\u0435 \u0441\u043E\u043B\u043D\u0446\u0435?"
+      - Onde esta o sol?
+      - Wo ist die Sonne?
+      - "O\xF9 est le soleil?"
+      - "Dov'\xE8 il sole?"
+      - "\xBFD\xF3nde est\xE1 el sol?"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: light
+      TermType: 0
+      Description: 
+      Languages:
+      - Turn on light!!!
+      - "\u0412\u043A\u043B\u044E\u0447\u0438 \u0441\u0432\u0435\u0442"
+      - Acenda a luz !!!
+      - Mach das Licht an!!!
+      - "Allume la lumi\xE8re!!!"
+      - Accendi la luce!!!
+      - "\xA1\xA1\xA1Enciende la luz!!!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: music_vibration_key
+      TermType: 0
+      Description: 
+      Languages:
+      - Music
+      - "\u041C\u0443\u0437\u044B\u043A\u0430"
+      - "M\xFAsica"
+      - Musik-
+      - Musique
+      - Musica
+      - "M\xFAsica"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: prem_active_tips_key
+      TermType: 0
+      Description: 
+      Languages:
+      - active tips
+      - active tips
+      - dicas ativas
+      - aktive tipps
+      - astuces actives
+      - suggerimenti attivi
+      - consejos activos
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: prem_no_ads_key
+      TermType: 0
+      Description: 
+      Languages:
+      - remove ads
+      - remove ads
+      - remover propagandas
+      - Anzeigen entfernen
+      - Supprimez la pub
+      - rimuovere gli annunci
+      - Quitar anuncios
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: prem_support_key
+      TermType: 0
+      Description: 
+      Languages:
+      - support games
+      - support games
+      - jogos de suporte
+      - "Unterst\xFCtzungsspiele"
+      - jeux de soutien
+      - giochi di supporto
+      - juegos de apoyo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: restore_purchases
+      TermType: 0
+      Description: 
+      Languages:
+      - Restore purchases
+      - "\u0412\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435
+        \u043F\u043E\u043A\u0443\u043F\u043E\u043A"
+      - Restaurar compras
+      - "Eink\xE4ufe wiederherstellen"
+      - Restaurer les achats
+      - Ripristinare gli acquisti
+      - Restaurar las compras
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: settings_gdpr_key
+      TermType: 0
+      Description: 
+      Languages:
+      - Privaty policy
+      - "\u041F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 \u043A\u043E\u043D\u0444\u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u0438"
+      - "Pol\xEDtica Privada"
+      - Privatpolitik
+      - "Politique de confidentialit\xE9"
+      - Politica sulla privacy
+      - "Pol\xEDtica de privacidad"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: settings_premium_key
+      TermType: 0
+      Description: 
+      Languages:
+      - Disable ads
+      - "\u041E\u0442\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u0440\u0435\u043A\u043B\u0430\u043C\u0443"
+      - "Desativar an\xFAncios"
+      - Werbungen ausschalten
+      - "D\xE9sactiver les annonces"
+      - Disattiva gli annunci
+      - Desactivar los anuncios
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: settings_text_language_code_key
+      TermType: 0
+      Description: 
+      Languages:
+      - ENG
+      - RU
+      - PT
+      - DE
+      - FR
+      - IT
+      - ES
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: settings_vibration_key
+      TermType: 0
+      Description: 
+      Languages:
+      - VIBRATION
+      - "\u0412\u0438\u0431\u0440\u0430\u0446\u0438\u044F"
+      - "Vibra\xE7\xE3o"
+      - Vibration
+      - Vibration
+      - Vibrazione
+      - "Vibraci\xF3n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: spider
+      TermType: 0
+      Description: 
+      Languages:
+      - Kill the spider
+      - "\u0423\u0431\u0435\u0439 \u043F\u0430\u0443\u043A\u0430"
+      - Mate a aranha
+      - "T\xF6te die Spinne"
+      - "Tuez l'araign\xE9e"
+      - Uccidi il ragno
+      - "Mata a la ara\xF1a"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: test
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - "\u0442\u0435\u0441\u0442"
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: text_cool_key
+      TermType: 0
+      Description: 
+      Languages:
+      - COOL
+      - COOL
+      - COOL
+      - COOL
+      - COOL
+      - COOL
+      - COOL
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: text_no_key
+      TermType: 0
+      Description: 
+      Languages:
+      - No
+      - No
+      - "N\xE3o"
+      - Nein
+      - Non
+      - No
+      - No
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: text_yes_key
+      TermType: 0
+      Description: 
+      Languages:
+      - Yes
+      - Yes
+      - Sim
+      - Ja
+      - Oui
+      - "S\xEC"
+      - "S\xED"
+      Flags: 00000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: Portuguese
+      Code: pt
+      Flags: 0
+    - Name: German
+      Code: de
+      Flags: 0
+    - Name: French
+      Code: fr
+      Flags: 0
+    - Name: Italian
+      Code: it
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbxpZPD6jbv4tqPQJgKVqL6-BSkltlC101kY2vu2/exec
+    Google_SpreadsheetKey: 1PRLU1w3cXvPxZHY7qEx3dzDNku3Sa3FMd0Ar9EZ_oN8
+    Google_SpreadsheetName: I2Loc MintQuest Localization
+    Google_LastUpdatedVersion: 1612431995782
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1

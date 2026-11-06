@@ -1,0 +1,27 @@
+
+Bat.png
+size: 494,183
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 1
+  rotate: false
+  xy: 401, 38
+  size: 91, 143
+  orig: 91, 143
+  offset: 0, 0
+  index: -1
+Слой 2
+  rotate: false
+  xy: 2, 2
+  size: 203, 179
+  orig: 203, 179
+  offset: 0, 0
+  index: -1
+Слой 3
+  rotate: false
+  xy: 207, 18
+  size: 192, 163
+  orig: 192, 163
+  offset: 0, 0
+  index: -1

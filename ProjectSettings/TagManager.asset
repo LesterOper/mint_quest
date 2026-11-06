@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - menu
+  - coolBtn
+  - platform
+  - Background
+  - MintBackground
+  - backBtn
+  - FxTemporaire
+  - BaloonLVL
+  - BaloonsWithThreads
+  - target
+  - mirror
+  - troll
+  - UiParentRect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - outlineElements
+  - background
+  - level
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Dialogs
+    uniqueID: 2936425005
+    locked: 0
+  - name: Levels
+    uniqueID: 3453464553
+    locked: 0
